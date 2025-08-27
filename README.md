@@ -14,11 +14,12 @@ ollama run mistral
 Usage
 
 ```bash
-from best_snomed import using_dspy
+from best_snomed.rag import using_dspy
 
 top_matches = using_dspy(hadm_id=12345, icd9_code="25000")
 print(top_matches)
 ```
+
 
 
 
