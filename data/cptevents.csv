@@ -1,0 +1,822 @@
+SUBJECT_ID,HADM_ID,SECTIONHEADER,SUBSECTIONHEADER
+10455,178035,Evaluation and management,Hospital inpatient services
+10455,178035,Evaluation and management,Hospital inpatient services
+10455,178035,Evaluation and management,Critical care services
+10455,178035,Evaluation and management,Hospital inpatient services
+10455,178035,Evaluation and management,Hospital inpatient services
+10455,178035,Evaluation and management,Hospital inpatient services
+8483,196085,Evaluation and management,Hospital inpatient services
+12134,175361,Evaluation and management,Hospital inpatient services
+12134,175361,Evaluation and management,Critical care services
+738,101840,Evaluation and management,Hospital inpatient services
+738,101840,Evaluation and management,Critical care services
+738,101840,Evaluation and management,Critical care services
+2925,104276,Evaluation and management,Critical care services
+2925,104276,Evaluation and management,Hospital inpatient services
+2925,104276,Evaluation and management,Hospital inpatient services
+2925,104276,Evaluation and management,Hospital inpatient services
+2925,104276,Evaluation and management,Hospital inpatient services
+2925,104276,Evaluation and management,Consultations
+2925,104276,Medicine,Dialysis
+2925,104276,Evaluation and management,Hospital inpatient services
+2925,104276,Evaluation and management,Hospital inpatient services
+2925,104276,Evaluation and management,Hospital inpatient services
+2925,104276,Evaluation and management,Hospital inpatient services
+2925,104276,Evaluation and management,Critical care services
+2925,104276,Evaluation and management,Hospital inpatient services
+2925,104276,Evaluation and management,Hospital inpatient services
+2925,104276,Evaluation and management,Critical care services
+2925,104276,Evaluation and management,Critical care services
+2925,104276,Evaluation and management,Critical care services
+2925,104276,Evaluation and management,Critical care services
+2925,104276,Evaluation and management,Consultations
+2925,104276,Evaluation and management,Hospital inpatient services
+2925,104276,Evaluation and management,Hospital inpatient services
+2925,104276,Evaluation and management,Hospital inpatient services
+2925,104276,Evaluation and management,Critical care services
+19892,104057,Evaluation and management,Hospital inpatient services
+19892,104057,Evaluation and management,Critical care services
+25084,149748,Evaluation and management,Hospital inpatient services
+25084,149748,Evaluation and management,Critical care services
+25084,149748,Evaluation and management,Critical care services
+25084,149748,Medicine,Cardiovascular
+25084,149748,Evaluation and management,Consultations
+25084,149748,Evaluation and management,Hospital inpatient services
+25084,149748,Evaluation and management,Consultations
+25084,149748,Evaluation and management,Hospital inpatient services
+25084,149748,Evaluation and management,Hospital inpatient services
+25084,149748,Evaluation and management,Hospital inpatient services
+25084,149748,Evaluation and management,Critical care services
+25084,149748,Surgery,Cardiovascular system
+25084,149748,Evaluation and management,Critical care services
+23456,115112,Evaluation and management,Critical care services
+23456,115112,Surgery,Respiratory system
+21454,115782,Evaluation and management,Critical care services
+21454,115782,Evaluation and management,Critical care services
+7815,113156,Evaluation and management,Consultations
+7815,113156,Evaluation and management,Hospital inpatient services
+7815,113156,Evaluation and management,Hospital inpatient services
+7815,113156,Evaluation and management,Hospital inpatient services
+4098,121963,Evaluation and management,Hospital inpatient services
+4098,121963,Evaluation and management,Hospital inpatient services
+4098,121963,Evaluation and management,Hospital inpatient services
+4098,121963,Evaluation and management,Hospital inpatient services
+4098,121963,Evaluation and management,Consultations
+4098,121963,Evaluation and management,Hospital inpatient services
+4098,121963,Evaluation and management,Hospital inpatient services
+4098,121963,Evaluation and management,Hospital inpatient services
+4098,121963,Evaluation and management,Hospital inpatient services
+4098,121963,Evaluation and management,Hospital inpatient services
+4098,121963,Evaluation and management,Critical care services
+4098,121963,Evaluation and management,Hospital inpatient services
+4098,121963,Evaluation and management,Hospital inpatient services
+4098,121963,Evaluation and management,Hospital inpatient services
+4098,121963,Evaluation and management,Hospital inpatient services
+4098,121963,Evaluation and management,Hospital inpatient services
+4098,121963,Evaluation and management,Hospital inpatient services
+4098,121963,Evaluation and management,Critical care services
+4098,121963,Evaluation and management,Critical care services
+4098,121963,Evaluation and management,Hospital inpatient services
+4098,121963,Evaluation and management,Consultations
+4098,121963,Evaluation and management,Hospital inpatient services
+4098,121963,Surgery,Musculoskeletal system
+4628,108262,Evaluation and management,Hospital inpatient services
+4628,108262,Evaluation and management,Hospital inpatient services
+4628,108262,Evaluation and management,Hospital inpatient services
+4628,108262,Evaluation and management,Hospital inpatient services
+4628,108262,Evaluation and management,Hospital inpatient services
+5462,112543,Evaluation and management,Critical care services
+5462,112543,Evaluation and management,Critical care services
+5462,112543,Evaluation and management,Critical care services
+5462,112543,Evaluation and management,Critical care services
+5462,112543,Evaluation and management,Critical care services
+5462,112543,Evaluation and management,Hospital inpatient services
+5462,112543,Evaluation and management,Critical care services
+9782,151652,Evaluation and management,Hospital inpatient services
+9782,151652,Evaluation and management,Hospital inpatient services
+17261,100052,Evaluation and management,Hospital inpatient services
+17261,100052,Evaluation and management,Hospital inpatient services
+26125,107965,Surgery,Cardiovascular system
+14705,116885,Evaluation and management,Critical care services
+14705,116885,Evaluation and management,Hospital inpatient services
+18614,194522,Surgery,Respiratory system
+18614,194522,Surgery,Respiratory system
+18614,194522,Evaluation and management,Critical care services
+18614,194522,Surgery,Respiratory system
+18614,194522,Evaluation and management,Hospital inpatient services
+18614,194522,Evaluation and management,Hospital inpatient services
+18614,194522,Evaluation and management,Hospital inpatient services
+18614,194522,Evaluation and management,Hospital inpatient services
+18614,194522,Evaluation and management,Hospital inpatient services
+13432,124788,Evaluation and management,Hospital inpatient services
+13432,124788,Evaluation and management,Consultations
+13432,124788,Evaluation and management,Consultations
+30688,138569,Surgery,Male genital system
+31625,110474,Evaluation and management,Critical care services
+31625,110474,Evaluation and management,Hospital inpatient services
+31625,110474,Evaluation and management,Critical care services
+31625,110474,Medicine,Cardiovascular
+31625,110474,Evaluation and management,Critical care services
+31625,110474,Evaluation and management,Critical care services
+31625,110474,Evaluation and management,Critical care services
+31625,110474,Evaluation and management,Critical care services
+30731,184324,Evaluation and management,Hospital inpatient services
+30731,184324,Evaluation and management,Hospital inpatient services
+30731,184324,Evaluation and management,Critical care services
+30731,184324,Evaluation and management,Critical care services
+30731,184324,Evaluation and management,Hospital inpatient services
+30731,184324,Evaluation and management,Hospital inpatient services
+30731,184324,Evaluation and management,Hospital inpatient services
+30731,184324,Evaluation and management,Critical care services
+30731,184324,Evaluation and management,Consultations
+30731,184324,Evaluation and management,Critical care services
+30731,184324,Evaluation and management,Critical care services
+30731,184324,Evaluation and management,Hospital inpatient services
+30731,184324,Evaluation and management,Critical care services
+30731,184324,Evaluation and management,Critical care services
+30731,184324,Evaluation and management,Critical care services
+31482,147928,Evaluation and management,Consultations
+31482,147928,Evaluation and management,Hospital inpatient services
+31482,147928,Evaluation and management,Hospital inpatient services
+31482,147928,Evaluation and management,Hospital inpatient services
+31482,147928,Evaluation and management,Hospital inpatient services
+31482,147928,Evaluation and management,Hospital inpatient services
+31482,147928,Evaluation and management,Hospital inpatient services
+31482,147928,Evaluation and management,Hospital inpatient services
+31482,147928,Evaluation and management,Consultations
+31482,147928,Evaluation and management,Consultations
+31482,147928,Evaluation and management,Hospital inpatient services
+31482,147928,Evaluation and management,Hospital inpatient services
+31482,147928,Evaluation and management,Hospital inpatient services
+31482,147928,Evaluation and management,Hospital inpatient services
+31482,147928,Evaluation and management,Hospital inpatient services
+31482,147928,Evaluation and management,Hospital inpatient services
+32319,164973,Evaluation and management,Critical care services
+32319,164973,Evaluation and management,Hospital inpatient services
+32319,164973,Evaluation and management,Hospital inpatient services
+32319,164973,Evaluation and management,Critical care services
+32319,164973,Evaluation and management,Critical care services
+32319,164973,Evaluation and management,Critical care services
+32319,164973,Evaluation and management,Hospital inpatient services
+32319,164973,Evaluation and management,Hospital inpatient services
+32319,164973,Evaluation and management,Hospital inpatient services
+32319,164973,Evaluation and management,Consultations
+32319,164973,Evaluation and management,Hospital inpatient services
+32522,148268,Evaluation and management,Consultations
+32522,148268,Evaluation and management,Hospital inpatient services
+32522,148268,Evaluation and management,Hospital inpatient services
+32522,148268,Evaluation and management,Hospital inpatient services
+32522,148268,Medicine,Dialysis
+32522,148268,Medicine,Dialysis
+32522,148268,Medicine,Dialysis
+32522,148268,Evaluation and management,Hospital inpatient services
+32522,148268,Evaluation and management,Hospital inpatient services
+32522,148268,Evaluation and management,Hospital inpatient services
+32522,148268,Evaluation and management,Hospital inpatient services
+32522,148268,Evaluation and management,Hospital inpatient services
+32522,148268,Evaluation and management,Hospital inpatient services
+32522,148268,Evaluation and management,Hospital inpatient services
+32522,148268,Evaluation and management,Hospital inpatient services
+32522,148268,Evaluation and management,Hospital inpatient services
+32522,148268,Evaluation and management,Hospital inpatient services
+32522,148268,Evaluation and management,Hospital inpatient services
+29929,140856,Evaluation and management,Consultations
+29929,140856,Evaluation and management,Critical care services
+29929,140856,Evaluation and management,Critical care services
+29929,140856,Evaluation and management,Hospital inpatient services
+29929,140856,Evaluation and management,Critical care services
+29929,140856,Evaluation and management,Critical care services
+29929,140856,Evaluation and management,Critical care services
+30145,145049,Evaluation and management,Critical care services
+30145,145049,Evaluation and management,Critical care services
+30145,145049,Evaluation and management,Critical care services
+30145,145049,Evaluation and management,Critical care services
+30145,145049,Evaluation and management,Critical care services
+30145,145049,Evaluation and management,Critical care services
+30145,145049,Evaluation and management,Consultations
+30145,145049,Evaluation and management,Hospital inpatient services
+28174,129013,Evaluation and management,Hospital inpatient services
+28174,129013,Evaluation and management,Consultations
+28174,129013,Evaluation and management,Hospital inpatient services
+28174,129013,Evaluation and management,Hospital inpatient services
+28174,129013,Evaluation and management,Hospital inpatient services
+28174,129013,Evaluation and management,Hospital inpatient services
+28174,129013,Evaluation and management,Hospital inpatient services
+28174,129013,Evaluation and management,Critical care services
+28174,129013,Evaluation and management,Hospital inpatient services
+28174,129013,Evaluation and management,Hospital inpatient services
+28174,129013,Evaluation and management,Hospital inpatient services
+30989,103653,Evaluation and management,Hospital inpatient services
+30989,103653,Evaluation and management,Hospital inpatient services
+30989,103653,Evaluation and management,Consultations
+30989,103653,Evaluation and management,Hospital inpatient services
+30989,103653,Evaluation and management,Hospital inpatient services
+30989,103653,Surgery,Integumentary system
+30989,103653,Surgery,Musculoskeletal system
+30989,103653,Surgery,Musculoskeletal system
+30989,103653,Surgery,Musculoskeletal system
+30989,103653,Evaluation and management,Hospital inpatient services
+30989,103653,Evaluation and management,Hospital inpatient services
+30989,103653,Evaluation and management,Hospital inpatient services
+60115,168385,Surgery,Cardiovascular system
+60115,168385,Surgery,Cardiovascular system
+60115,168385,Surgery,Cardiovascular system
+60115,168385,Surgery,Cardiovascular system
+74764,193017,Surgery,Cardiovascular system
+74764,193017,Surgery,Cardiovascular system
+74764,193017,Surgery,Cardiovascular system
+74764,193017,Surgery,Cardiovascular system
+74764,193017,Evaluation and management,Critical care services
+74764,193017,Evaluation and management,Critical care services
+74764,193017,Surgery,Cardiovascular system
+74764,193017,Surgery,Cardiovascular system
+74764,193017,Surgery,Cardiovascular system
+74764,193017,Surgery,Cardiovascular system
+74764,193017,Evaluation and management,Consultations
+66555,124440,Evaluation and management,Critical care services
+66555,124440,Evaluation and management,Hospital inpatient services
+66555,124440,Evaluation and management,Critical care services
+88801,149232,Surgery,Musculoskeletal system
+88801,149232,Surgery,Musculoskeletal system
+98228,145017,Evaluation and management,Consultations
+98228,145017,Evaluation and management,Critical care services
+98228,145017,Evaluation and management,Critical care services
+98228,145017,Evaluation and management,Critical care services
+98228,145017,Evaluation and management,Hospital inpatient services
+98228,145017,Evaluation and management,Hospital inpatient services
+98228,145017,Evaluation and management,Hospital inpatient services
+97868,191761,Evaluation and management,Critical care services
+98103,183201,Evaluation and management,Critical care services
+98103,183201,Evaluation and management,Critical care services
+98103,183201,Evaluation and management,Hospital inpatient services
+98103,183201,Evaluation and management,Hospital inpatient services
+98103,183201,Evaluation and management,Consultations
+98103,183201,Evaluation and management,Hospital inpatient services
+91376,193978,Evaluation and management,Consultations
+91376,193978,Evaluation and management,Hospital inpatient services
+91376,193978,Evaluation and management,Hospital inpatient services
+91376,193978,Evaluation and management,Hospital inpatient services
+91376,193978,Surgery,Digestive system
+91376,193978,Evaluation and management,Hospital inpatient services
+91376,193978,Evaluation and management,Hospital inpatient services
+91376,193978,Evaluation and management,Hospital inpatient services
+91376,193978,Evaluation and management,Hospital inpatient services
+91376,193978,Evaluation and management,Critical care services
+91376,193978,Evaluation and management,Critical care services
+91376,193978,Surgery,Musculoskeletal system
+91376,193978,Surgery,Cardiovascular system
+91376,193978,Evaluation and management,Hospital inpatient services
+91376,193978,Evaluation and management,Hospital inpatient services
+91376,193978,Evaluation and management,Hospital inpatient services
+91376,193978,Evaluation and management,Critical care services
+91376,193978,Evaluation and management,Critical care services
+91376,193978,Evaluation and management,Hospital inpatient services
+91376,193978,Evaluation and management,Critical care services
+91376,193978,Evaluation and management,Hospital inpatient services
+91376,193978,Evaluation and management,Consultations
+91376,193978,Evaluation and management,Critical care services
+91376,193978,Evaluation and management,Hospital inpatient services
+91376,193978,Evaluation and management,Critical care services
+91376,193978,Evaluation and management,Hospital inpatient services
+91376,193978,Evaluation and management,Hospital inpatient services
+91376,193978,Evaluation and management,Consultations
+91376,193978,Evaluation and management,Hospital inpatient services
+91376,193978,Evaluation and management,Hospital inpatient services
+91376,193978,Evaluation and management,Hospital inpatient services
+91376,193978,Evaluation and management,Hospital inpatient services
+91376,193978,Evaluation and management,Hospital inpatient services
+91376,193978,Surgery,Respiratory system
+91376,193978,Surgery,Respiratory system
+91376,193978,Surgery,Mediastinum and diaphragm
+91376,193978,Evaluation and management,Hospital inpatient services
+91376,193978,Evaluation and management,Hospital inpatient services
+91376,193978,Surgery,Digestive system
+91376,193978,Surgery,Integumentary system
+91376,193978,Surgery,Respiratory system
+91376,193978,Evaluation and management,Hospital inpatient services
+91376,193978,Evaluation and management,Consultations
+98228,145017,Evaluation and management,Hospital inpatient services
+98220,189416,Evaluation and management,Consultations
+98220,189416,Evaluation and management,Hospital inpatient services
+98220,189416,Evaluation and management,Hospital inpatient services
+98220,189416,Evaluation and management,Hospital inpatient services
+98220,189416,Evaluation and management,Hospital inpatient services
+98220,189416,Evaluation and management,Hospital inpatient services
+98220,189416,Evaluation and management,Hospital inpatient services
+98220,189416,Evaluation and management,Hospital inpatient services
+98220,189416,Evaluation and management,Hospital inpatient services
+98220,189416,Evaluation and management,Hospital inpatient services
+98220,189416,Evaluation and management,Hospital inpatient services
+98220,189416,Evaluation and management,Hospital inpatient services
+98220,189416,Evaluation and management,Hospital inpatient services
+98220,189416,Evaluation and management,Hospital inpatient services
+98220,189416,Evaluation and management,Hospital inpatient services
+98220,189416,Evaluation and management,Hospital inpatient services
+98220,189416,Evaluation and management,Consultations
+98220,189416,Evaluation and management,Hospital inpatient services
+98220,189416,Evaluation and management,Hospital inpatient services
+26868,169973,Evaluation and management,Hospital inpatient services
+26868,169973,Evaluation and management,Hospital inpatient services
+26868,169973,Evaluation and management,Critical care services
+26868,169973,Evaluation and management,Critical care services
+26868,169973,Evaluation and management,Hospital inpatient services
+26868,169973,Evaluation and management,Hospital inpatient services
+26868,169973,Medicine,Dialysis
+26868,169973,Evaluation and management,Hospital inpatient services
+66430,171076,Evaluation and management,Critical care services
+66430,171076,Evaluation and management,Hospital inpatient services
+23028,117744,Evaluation and management,Critical care services
+23028,117744,Evaluation and management,Hospital inpatient services
+23028,117744,Medicine,Psychiatry
+23028,117744,Evaluation and management,Hospital inpatient services
+23028,117744,Evaluation and management,Hospital inpatient services
+23028,117744,Evaluation and management,Critical care services
+23028,117744,Evaluation and management,Hospital inpatient services
+23028,117744,Evaluation and management,Hospital inpatient services
+68457,164074,Surgery,Cardiovascular system
+68457,164074,Surgery,Cardiovascular system
+68457,164074,Surgery,Cardiovascular system
+68457,164074,Evaluation and management,Critical care services
+68457,164074,Evaluation and management,Critical care services
+68457,164074,Surgery,Cardiovascular system
+68457,164074,Surgery,Cardiovascular system
+68457,164074,Surgery,Cardiovascular system
+68457,164074,Surgery,Cardiovascular system
+68457,164074,Evaluation and management,Critical care services
+68457,164074,Evaluation and management,Critical care services
+68457,164074,Evaluation and management,Hospital inpatient services
+65126,141349,Surgery,Cardiovascular system
+65126,141349,Evaluation and management,Critical care services
+65126,141349,Evaluation and management,Critical care services
+65126,141349,Surgery,Respiratory system
+65126,141349,Evaluation and management,Critical care services
+65126,141349,Evaluation and management,Critical care services
+65126,141349,Surgery,Respiratory system
+65126,141349,Evaluation and management,Critical care services
+65126,141349,Evaluation and management,Critical care services
+65126,141349,Evaluation and management,Prolonged services
+65126,141349,Evaluation and management,Critical care services
+65126,141349,Evaluation and management,Critical care services
+65126,141349,Evaluation and management,Critical care services
+65126,141349,Evaluation and management,Hospital inpatient services
+65126,141349,Evaluation and management,Critical care services
+65126,141349,Evaluation and management,Critical care services
+65126,141349,Evaluation and management,Critical care services
+65126,141349,Evaluation and management,Hospital inpatient services
+97424,196371,Evaluation and management,Hospital inpatient services
+97424,196371,Evaluation and management,Critical care services
+97424,196371,Evaluation and management,Hospital inpatient services
+90070,162857,Evaluation and management,Critical care services
+90070,162857,Evaluation and management,Critical care services
+90070,162857,Evaluation and management,Critical care services
+90070,162857,Evaluation and management,Critical care services
+90070,162857,Evaluation and management,Critical care services
+90070,162857,Evaluation and management,Critical care services
+90070,162857,Evaluation and management,Critical care services
+90070,162857,Evaluation and management,Critical care services
+96046,110289,Evaluation and management,Hospital inpatient services
+96046,110289,Evaluation and management,Hospital inpatient services
+96046,110289,Evaluation and management,Hospital inpatient services
+96046,110289,Evaluation and management,Hospital inpatient services
+74260,159409,Evaluation and management,Hospital inpatient services
+74260,159409,Evaluation and management,Critical care services
+74260,159409,Surgery,Cardiovascular system
+74260,159409,Evaluation and management,Critical care services
+74260,159409,Evaluation and management,Hospital inpatient services
+74260,159409,Surgery,Integumentary system
+74260,159409,Evaluation and management,Critical care services
+74260,159409,Evaluation and management,Critical care services
+32797,118731,Evaluation and management,Critical care services
+32797,118731,Evaluation and management,Critical care services
+32797,118731,Evaluation and management,Hospital inpatient services
+32797,118731,Surgery,Cardiovascular system
+32797,118731,Surgery,Digestive system
+32797,118731,Evaluation and management,Critical care services
+32797,118731,Evaluation and management,Hospital inpatient services
+32797,118731,Evaluation and management,Hospital inpatient services
+46423,181606,Evaluation and management,Critical care services
+46423,181606,Evaluation and management,Hospital inpatient services
+46423,181606,Evaluation and management,Hospital inpatient services
+46423,181606,Evaluation and management,Hospital inpatient services
+46423,181606,Evaluation and management,Hospital inpatient services
+53205,150067,Evaluation and management,Hospital inpatient services
+53205,150067,Surgery,Digestive system
+53205,150067,Evaluation and management,Critical care services
+41803,161409,Surgery,Cardiovascular system
+41803,161409,Evaluation and management,Critical care services
+41803,161409,Anesthesia,Other procedures
+41803,161409,Surgery,Digestive system
+41803,161409,Surgery,Digestive system
+41803,161409,Anesthesia,Other procedures
+41803,161409,Anesthesia,Other procedures
+41803,161409,Anesthesia,Other procedures
+96518,110840,Evaluation and management,Critical care services
+96518,110840,Evaluation and management,Critical care services
+96518,110840,Surgery,Cardiovascular system
+96518,110840,Surgery,Cardiovascular system
+96518,110840,Evaluation and management,Hospital inpatient services
+96518,110840,Evaluation and management,Critical care services
+96518,110840,Evaluation and management,Hospital inpatient services
+96518,110840,Evaluation and management,Hospital inpatient services
+96518,110840,Evaluation and management,Critical care services
+96518,110840,Evaluation and management,Hospital inpatient services
+96518,110840,Evaluation and management,Hospital inpatient services
+96518,110840,Evaluation and management,Hospital inpatient services
+96518,110840,Evaluation and management,Hospital inpatient services
+96518,110840,Evaluation and management,Hospital inpatient services
+96518,110840,Evaluation and management,Hospital inpatient services
+96518,110840,Evaluation and management,Hospital inpatient services
+96518,110840,Evaluation and management,Hospital inpatient services
+96518,110840,Evaluation and management,Hospital inpatient services
+96518,110840,Evaluation and management,Hospital inpatient services
+89459,144644,Surgery,Cardiovascular system
+89459,144644,Surgery,Cardiovascular system
+89459,144644,Surgery,Cardiovascular system
+89459,144644,Surgery,Cardiovascular system
+89459,144644,Surgery,Cardiovascular system
+89459,144644,Surgery,Cardiovascular system
+89459,144644,Evaluation and management,Hospital inpatient services
+89459,144644,Evaluation and management,Critical care services
+89459,144644,Evaluation and management,Hospital inpatient services
+66768,176145,Evaluation and management,Critical care services
+66768,176145,Evaluation and management,Hospital inpatient services
+66768,176145,Evaluation and management,Hospital inpatient services
+66768,176145,Evaluation and management,Hospital inpatient services
+66768,176145,Evaluation and management,Hospital inpatient services
+66768,176145,Evaluation and management,Hospital inpatient services
+66768,176145,Evaluation and management,Hospital inpatient services
+66768,176145,Evaluation and management,Hospital inpatient services
+66768,176145,Evaluation and management,Hospital inpatient services
+66768,176145,Evaluation and management,Critical care services
+66768,176145,Evaluation and management,Critical care services
+66768,176145,Evaluation and management,Critical care services
+66768,176145,Evaluation and management,Hospital inpatient services
+66768,176145,Evaluation and management,Hospital inpatient services
+66768,176145,Evaluation and management,Hospital inpatient services
+66768,176145,Evaluation and management,Hospital inpatient services
+51178,188927,Evaluation and management,Hospital inpatient services
+51178,188927,Evaluation and management,Hospital inpatient services
+51178,188927,Evaluation and management,Hospital inpatient services
+51178,188927,Evaluation and management,Critical care services
+51178,188927,Evaluation and management,Hospital inpatient services
+51178,188927,Evaluation and management,Critical care services
+57568,170909,Medicine,Cardiovascular
+57568,170909,Evaluation and management,Hospital inpatient services
+57568,170909,Evaluation and management,Critical care services
+90972,140197,Surgery,Digestive system
+90972,140197,Evaluation and management,Critical care services
+90972,140197,Evaluation and management,Critical care services
+90972,140197,Surgery,Cardiovascular system
+90972,140197,Evaluation and management,Hospital inpatient services
+90972,140197,Evaluation and management,Hospital inpatient services
+90972,140197,Surgery,Digestive system
+90972,140197,Evaluation and management,Critical care services
+90972,140197,Evaluation and management,Hospital inpatient services
+90972,140197,Evaluation and management,Hospital inpatient services
+90972,140197,Evaluation and management,Critical care services
+90972,140197,Evaluation and management,Hospital inpatient services
+90972,140197,Evaluation and management,Critical care services
+90972,140197,Evaluation and management,Hospital inpatient services
+90972,140197,Evaluation and management,Hospital inpatient services
+90972,140197,Evaluation and management,Hospital inpatient services
+90972,140197,Evaluation and management,Hospital inpatient services
+90972,140197,Evaluation and management,Hospital inpatient services
+90972,140197,Evaluation and management,Hospital inpatient services
+90972,140197,Evaluation and management,Critical care services
+90972,140197,Surgery,Digestive system
+90972,140197,Evaluation and management,Hospital inpatient services
+90972,140197,Evaluation and management,Hospital inpatient services
+90972,140197,Evaluation and management,Hospital inpatient services
+90972,140197,Evaluation and management,Hospital inpatient services
+90972,140197,Evaluation and management,Hospital inpatient services
+90972,140197,Evaluation and management,Hospital inpatient services
+90972,140197,Evaluation and management,Critical care services
+90972,140197,Evaluation and management,Critical care services
+90972,140197,Evaluation and management,Hospital inpatient services
+57568,170909,Evaluation and management,Critical care services
+57568,170909,Evaluation and management,Consultations
+57568,170909,Evaluation and management,Critical care services
+57568,170909,Evaluation and management,Consultations
+57568,170909,Surgery,Hemic and lymphatic systems
+57568,170909,Surgery,Respiratory system
+57568,170909,Surgery,Cardiovascular system
+57568,170909,Surgery,Cardiovascular system
+57568,170909,Evaluation and management,Critical care services
+57568,170909,Evaluation and management,Critical care services
+44232,176076,Evaluation and management,Hospital inpatient services
+44232,176076,Surgery,Musculoskeletal system
+44232,176076,Evaluation and management,Hospital inpatient services
+44232,176076,Evaluation and management,Hospital inpatient services
+44232,176076,Evaluation and management,Hospital inpatient services
+44232,176076,Evaluation and management,Hospital inpatient services
+44232,176076,Evaluation and management,Hospital inpatient services
+44232,176076,Evaluation and management,Hospital inpatient services
+44232,176076,Evaluation and management,Hospital inpatient services
+44232,176076,Evaluation and management,Hospital inpatient services
+44232,176076,Evaluation and management,Hospital inpatient services
+44232,176076,Evaluation and management,Hospital inpatient services
+44232,176076,Evaluation and management,Hospital inpatient services
+44232,176076,Evaluation and management,Hospital inpatient services
+44232,176076,Evaluation and management,Hospital inpatient services
+44232,176076,Evaluation and management,Hospital inpatient services
+44232,176076,Evaluation and management,Hospital inpatient services
+81807,159214,Evaluation and management,Office/other outpatient services
+81807,159214,Evaluation and management,Consultations
+81807,159214,Evaluation and management,Office/other outpatient services
+81807,159214,Evaluation and management,Hospital inpatient services
+81807,159214,Evaluation and management,Office/other outpatient services
+81807,159214,Evaluation and management,Hospital inpatient services
+81807,159214,Evaluation and management,Hospital inpatient services
+81807,159214,Evaluation and management,Hospital inpatient services
+81807,159214,Evaluation and management,Critical care services
+81807,159214,Medicine,Dialysis
+81807,159214,Evaluation and management,Hospital inpatient services
+81807,159214,Evaluation and management,Hospital inpatient services
+81807,159214,Evaluation and management,Hospital inpatient services
+81807,159214,Evaluation and management,Hospital inpatient services
+81807,159214,Medicine,Dialysis
+81807,159214,Evaluation and management,Hospital inpatient services
+81807,159214,Evaluation and management,Hospital inpatient services
+81807,159214,Evaluation and management,Hospital inpatient services
+81807,159214,Evaluation and management,Hospital inpatient services
+81807,159214,Medicine,Dialysis
+81807,159214,Medicine,Dialysis
+81807,159214,Evaluation and management,Hospital inpatient services
+81807,159214,Medicine,Dialysis
+81807,159214,Evaluation and management,Hospital inpatient services
+81807,159214,Evaluation and management,Hospital inpatient services
+81807,159214,Evaluation and management,Hospital inpatient services
+81807,159214,Medicine,Dialysis
+81807,159214,Evaluation and management,Hospital inpatient services
+81807,159214,Evaluation and management,Hospital inpatient services
+65604,142011,Evaluation and management,Hospital inpatient services
+65604,142011,Evaluation and management,Hospital inpatient services
+65604,142011,Evaluation and management,Hospital inpatient services
+65604,142011,Evaluation and management,Hospital inpatient services
+65604,142011,Evaluation and management,Critical care services
+65604,142011,Surgery,Cardiovascular system
+65604,142011,Surgery,Digestive system
+65604,142011,Evaluation and management,Critical care services
+65604,142011,Evaluation and management,Critical care services
+65604,142011,Evaluation and management,Critical care services
+65604,142011,Surgery,Cardiovascular system
+65604,142011,Evaluation and management,Critical care services
+65604,142011,Surgery,Cardiovascular system
+65604,142011,Evaluation and management,Critical care services
+65604,142011,Radiology,Diagnostic ultrasound
+65604,142011,Surgery,Cardiovascular system
+65604,142011,Evaluation and management,Critical care services
+65604,142011,Medicine,Dialysis
+65604,142011,Evaluation and management,Critical care services
+65604,142011,Medicine,Dialysis
+65604,142011,Evaluation and management,Critical care services
+65604,142011,Medicine,Dialysis
+65604,142011,Evaluation and management,Critical care services
+65604,142011,Medicine,Dialysis
+65604,142011,Evaluation and management,Critical care services
+65604,142011,Medicine,Dialysis
+64999,185953,Evaluation and management,Critical care services
+64999,185953,Evaluation and management,Critical care services
+64999,185953,Evaluation and management,Hospital inpatient services
+64999,185953,Evaluation and management,Critical care services
+64999,185953,Evaluation and management,Critical care services
+64999,185953,Evaluation and management,Critical care services
+64999,185953,Evaluation and management,Critical care services
+64999,185953,Evaluation and management,Critical care services
+64999,185953,Evaluation and management,Critical care services
+64999,185953,Evaluation and management,Critical care services
+64999,185953,Evaluation and management,Critical care services
+64999,185953,Evaluation and management,Critical care services
+64999,185953,Evaluation and management,Hospital inpatient services
+64999,185953,Evaluation and management,Hospital inpatient services
+64999,185953,Evaluation and management,Hospital inpatient services
+64999,185953,Evaluation and management,Hospital inpatient services
+64999,185953,Evaluation and management,Hospital inpatient services
+64999,185953,Evaluation and management,Hospital inpatient services
+64999,185953,Evaluation and management,Hospital inpatient services
+64999,185953,Evaluation and management,Hospital inpatient services
+64999,185953,Evaluation and management,Hospital inpatient services
+64999,185953,Evaluation and management,Hospital inpatient services
+64999,185953,Evaluation and management,Hospital inpatient services
+64999,185953,Evaluation and management,Hospital inpatient services
+64999,185953,Evaluation and management,Hospital inpatient services
+64999,185953,Evaluation and management,Hospital inpatient services
+64999,185953,Evaluation and management,Hospital inpatient services
+64999,185953,Evaluation and management,Hospital inpatient services
+64999,185953,Evaluation and management,Hospital inpatient services
+64999,185953,Evaluation and management,Hospital inpatient services
+64999,185953,Evaluation and management,Hospital inpatient services
+64999,185953,Evaluation and management,Hospital inpatient services
+64999,185953,Evaluation and management,Hospital inpatient services
+64999,185953,Evaluation and management,Hospital inpatient services
+94977,121035,Evaluation and management,Hospital inpatient services
+94977,121035,Evaluation and management,Critical care services
+94977,121035,Evaluation and management,Critical care services
+94977,121035,Evaluation and management,Hospital inpatient services
+94977,121035,Evaluation and management,Critical care services
+94977,121035,Evaluation and management,Critical care services
+68937,109505,Surgery,Digestive system
+68937,109505,Surgery,Digestive system
+68937,109505,Surgery,Digestive system
+68937,109505,Evaluation and management,Critical care services
+68937,109505,Evaluation and management,Hospital inpatient services
+68937,109505,Evaluation and management,Critical care services
+68937,109505,Evaluation and management,Critical care services
+68937,109505,Evaluation and management,Hospital inpatient services
+68937,109505,Surgery,Digestive system
+68937,109505,Surgery,Digestive system
+68937,109505,Surgery,Digestive system
+68937,109505,Evaluation and management,Critical care services
+68937,109505,Evaluation and management,Hospital inpatient services
+68937,109505,Evaluation and management,Hospital inpatient services
+68937,109505,Evaluation and management,Hospital inpatient services
+68937,109505,Evaluation and management,Hospital inpatient services
+68937,109505,Evaluation and management,Hospital inpatient services
+68937,109505,Evaluation and management,Hospital inpatient services
+68937,109505,Evaluation and management,Hospital inpatient services
+68937,109505,Evaluation and management,Hospital inpatient services
+68937,109505,Evaluation and management,Hospital inpatient services
+71848,147174,Evaluation and management,Hospital inpatient services
+71848,147174,Evaluation and management,Hospital inpatient services
+71848,147174,Surgery,Cardiovascular system
+71848,147174,Evaluation and management,Critical care services
+71848,147174,Evaluation and management,Critical care services
+71848,147174,Evaluation and management,Hospital inpatient services
+71848,147174,Evaluation and management,Hospital inpatient services
+71848,147174,Evaluation and management,Hospital inpatient services
+71848,147174,Evaluation and management,Hospital inpatient services
+71848,147174,Evaluation and management,Hospital inpatient services
+71848,147174,Evaluation and management,Hospital inpatient services
+71848,147174,Evaluation and management,Hospital inpatient services
+2925,104276,Medicine,Pulmonary
+2925,104276,Medicine,Pulmonary
+2925,104276,Medicine,Pulmonary
+2925,104276,Medicine,Pulmonary
+2925,104276,Medicine,Pulmonary
+2431,163793,Medicine,Pulmonary
+28115,137568,Evaluation and management,Hospital inpatient services
+28115,137568,Medicine,Cardiovascular
+28115,137568,Evaluation and management,Hospital inpatient services
+28115,137568,Evaluation and management,Hospital inpatient services
+28115,137568,Evaluation and management,Hospital inpatient services
+738,101840,Medicine,Pulmonary
+738,101840,Medicine,Pulmonary
+5650,103959,Medicine,Pulmonary
+5650,103959,Medicine,Pulmonary
+5372,169887,Medicine,Pulmonary
+5462,112543,Medicine,Pulmonary
+5462,112543,Medicine,Pulmonary
+5462,112543,Medicine,Pulmonary
+5462,112543,Medicine,Pulmonary
+5462,112543,Medicine,Pulmonary
+5462,112543,Medicine,Pulmonary
+5462,112543,Medicine,Pulmonary
+11098,168252,Medicine,Pulmonary
+11098,168252,Medicine,Pulmonary
+12134,175361,Medicine,Pulmonary
+11385,151452,Medicine,Pulmonary
+18614,194522,Medicine,Pulmonary
+18614,194522,Medicine,Pulmonary
+18614,194522,Medicine,Pulmonary
+18614,194522,Medicine,Pulmonary
+18614,194522,Medicine,Pulmonary
+18867,120552,Medicine,Pulmonary
+18867,120552,Medicine,Pulmonary
+18867,120552,Medicine,Pulmonary
+18867,120552,Medicine,Pulmonary
+18867,120552,Medicine,Pulmonary
+18867,120552,Medicine,Pulmonary
+18867,120552,Medicine,Pulmonary
+18867,120552,Medicine,Pulmonary
+16049,118280,Medicine,Pulmonary
+21454,115782,Medicine,Pulmonary
+19892,104057,Medicine,Pulmonary
+19892,104057,Medicine,Pulmonary
+19892,104057,Medicine,Pulmonary
+19294,125280,Medicine,Pulmonary
+19294,125280,Medicine,Pulmonary
+19294,125280,Medicine,Pulmonary
+26868,169973,Medicine,Pulmonary
+26868,169973,Medicine,Pulmonary
+26125,107965,Medicine,Pulmonary
+25084,149748,Medicine,Pulmonary
+23456,115112,Medicine,Pulmonary
+23456,115112,Medicine,Pulmonary
+23456,115112,Medicine,Pulmonary
+23456,115112,Medicine,Pulmonary
+23456,115112,Medicine,Pulmonary
+23456,115112,Medicine,Pulmonary
+23456,115112,Medicine,Pulmonary
+23456,115112,Medicine,Pulmonary
+23456,115112,Medicine,Pulmonary
+30731,184324,Medicine,Pulmonary
+30731,184324,Medicine,Pulmonary
+30731,184324,Medicine,Pulmonary
+30731,184324,Medicine,Pulmonary
+30731,184324,Medicine,Pulmonary
+30731,184324,Medicine,Pulmonary
+30731,184324,Medicine,Pulmonary
+30731,184324,Medicine,Pulmonary
+30731,184324,Medicine,Pulmonary
+30731,184324,Medicine,Pulmonary
+30731,184324,Medicine,Pulmonary
+30731,184324,Medicine,Pulmonary
+30731,184324,Medicine,Pulmonary
+30731,184324,Medicine,Pulmonary
+30731,184324,Medicine,Pulmonary
+30731,184324,Medicine,Pulmonary
+30731,184324,Medicine,Pulmonary
+30731,184324,Medicine,Pulmonary
+30731,184324,Medicine,Pulmonary
+30731,184324,Medicine,Pulmonary
+30731,184324,Medicine,Pulmonary
+30731,184324,Medicine,Pulmonary
+30731,184324,Medicine,Pulmonary
+30731,184324,Medicine,Pulmonary
+30731,184324,Medicine,Pulmonary
+30145,145049,Medicine,Pulmonary
+30145,145049,Medicine,Pulmonary
+32522,148268,Medicine,Pulmonary
+32522,148268,Medicine,Pulmonary
+32522,148268,Medicine,Pulmonary
+32522,148268,Medicine,Pulmonary
+32522,148268,Medicine,Pulmonary
+32522,148268,Medicine,Pulmonary
+32522,148268,Medicine,Pulmonary
+32522,148268,Medicine,Pulmonary
+32522,148268,Medicine,Pulmonary
+32522,148268,Medicine,Pulmonary
+32797,118731,Medicine,Pulmonary
+32319,164973,Medicine,Pulmonary
+60115,168385,Medicine,Pulmonary
+64999,185953,Medicine,Pulmonary
+64999,185953,Medicine,Pulmonary
+64999,185953,Medicine,Pulmonary
+64999,185953,Medicine,Pulmonary
+64999,185953,Medicine,Pulmonary
+64999,185953,Medicine,Pulmonary
+64999,185953,Medicine,Pulmonary
+64999,185953,Medicine,Pulmonary
+68457,164074,Medicine,Pulmonary
+68457,164074,Medicine,Pulmonary
+65604,142011,Medicine,Pulmonary
+65604,142011,Medicine,Pulmonary
+65604,142011,Medicine,Pulmonary
+65604,142011,Medicine,Pulmonary
+65604,142011,Medicine,Pulmonary
+65604,142011,Medicine,Pulmonary
+65604,142011,Medicine,Pulmonary
+65604,142011,Medicine,Pulmonary
+65604,142011,Medicine,Pulmonary
+65604,142011,Medicine,Pulmonary
+74764,193017,Medicine,Pulmonary
+74764,193017,Medicine,Pulmonary
+74764,193017,Medicine,Pulmonary
+74764,193017,Medicine,Pulmonary
+74764,193017,Medicine,Pulmonary
+74764,193017,Medicine,Pulmonary
+94977,121035,Medicine,Pulmonary
+68937,109505,Medicine,Pulmonary
+68937,109505,Medicine,Pulmonary
+68937,109505,Medicine,Pulmonary
+68937,109505,Medicine,Pulmonary
+68937,109505,Medicine,Pulmonary
+64999,185953,Medicine,Pulmonary
+64999,185953,Medicine,Pulmonary
+65126,141349,Medicine,Pulmonary
+65126,141349,Medicine,Pulmonary
+65126,141349,Medicine,Pulmonary
+65126,141349,Medicine,Pulmonary
+65126,141349,Medicine,Pulmonary
+65126,141349,Medicine,Pulmonary
+65126,141349,Medicine,Pulmonary
+65126,141349,Medicine,Pulmonary
+65126,141349,Medicine,Pulmonary
+91376,193978,Medicine,Pulmonary
+91376,193978,Medicine,Pulmonary
+91376,193978,Medicine,Pulmonary
+91376,193978,Medicine,Pulmonary
+91376,193978,Medicine,Pulmonary
+91376,193978,Medicine,Pulmonary
+91376,193978,Medicine,Pulmonary
+91376,193978,Medicine,Pulmonary
+91376,193978,Medicine,Pulmonary
+91376,193978,Medicine,Pulmonary
+91376,193978,Medicine,Pulmonary
+91376,193978,Medicine,Pulmonary
+91376,193978,Medicine,Pulmonary
+91376,193978,Medicine,Pulmonary
+91376,193978,Medicine,Pulmonary
+91376,193978,Medicine,Pulmonary
+91376,193978,Medicine,Pulmonary
+91376,193978,Medicine,Pulmonary
+91376,193978,Medicine,Pulmonary
+91376,193978,Medicine,Pulmonary
+91376,193978,Medicine,Pulmonary
+91376,193978,Medicine,Pulmonary
+91376,193978,Medicine,Pulmonary
+91376,193978,Medicine,Pulmonary
+91376,193978,Medicine,Pulmonary
+90070,162857,Medicine,Pulmonary
+90070,162857,Medicine,Pulmonary
+90070,162857,Medicine,Pulmonary

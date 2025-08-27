@@ -1,0 +1,1046 @@
+SUBJECT_ID,HADM_ID,ICD9_CODE,SHORT_TITLE,LONG_TITLE
+291,125726,41041,"AMI inferior wall, init","Acute myocardial infarction of other inferior wall, initial episode of care"
+291,125726,78551,Cardiogenic shock,Cardiogenic shock
+291,125726,99672,Comp-oth cardiac device,"Other complications due to other cardiac device, implant, and graft"
+291,125726,E8798,Abn react-procedure NEC,"Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure"
+291,125726,7140,Rheumatoid arthritis,Rheumatoid arthritis
+291,125726,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery
+291,125726,V5865,Long-term use steroids,Long-term (current) use of steroids
+291,125726,3051,Tobacco use disorder,Tobacco use disorder
+291,125726,72400,Spinal stenosis NOS,"Spinal stenosis, unspecified region"
+291,125726,53190,Stomach ulcer NOS,"Gastric ulcer, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction"
+738,101840,41021,"AMI inferolateral, init","Acute myocardial infarction of inferolateral wall, initial episode of care"
+738,101840,5180,Pulmonary collapse,Pulmonary collapse
+738,101840,9971,Surg compl-heart,"Cardiac complications, not elsewhere classified"
+738,101840,4275,Cardiac arrest,Cardiac arrest
+738,101840,486,"Pneumonia, organism NOS","Pneumonia, organism unspecified"
+738,101840,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery
+738,101840,E8790,Abn react-cardiac cath,"Cardiac catheterization as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure"
+738,101840,3051,Tobacco use disorder,Tobacco use disorder
+738,101840,4588,Hypotension NEC,Other specified hypotension
+909,112514,430,Subarachnoid hemorrhage,Subarachnoid hemorrhage
+909,112514,4373,Nonrupt cerebral aneurym,"Cerebral aneurysm, nonruptured"
+909,112514,7210,Cervical spondylosis,Cervical spondylosis without myelopathy
+909,112514,7220,Cervical disc displacmnt,Displacement of cervical intervertebral disc without myelopathy
+909,112514,4465,Giant cell arteritis,Giant cell arteritis
+909,112514,725,Polymyalgia rheumatica,Polymyalgia rheumatica
+909,112514,4019,Hypertension NOS,Unspecified essential hypertension
+909,112514,2449,Hypothyroidism NOS,Unspecified acquired hypothyroidism
+909,112514,2859,Anemia NOS,"Anemia, unspecified"
+909,112514,42611,Atriovent block-1st degr,First degree atrioventricular block
+909,112514,V103,Hx of breast malignancy,Personal history of malignant neoplasm of breast
+2925,104276,9654,Pois-arom analgesics NEC,"Poisoning by aromatic analgesics, not elsewhere classified"
+2925,104276,2762,Acidosis,Acidosis
+2925,104276,570,Acute necrosis of liver,Acute and subacute necrosis of liver
+2925,104276,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus
+2925,104276,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+2925,104276,9630,Pois-antiallrg/antiemet,Poisoning by antiallergic and antiemetic drugs
+2925,104276,E9500,Poison-analgesics,"Suicide and self-inflicted poisoning by analgesics, antipyretics, and antirheumatics"
+2925,104276,E9504,Poison-drug/medicin NEC,Suicide and self-inflicted poisoning by other specified drugs and medicinal substances
+3405,145130,V3101,Twin-mate lb-in hos w cs,"Twin birth, mate liveborn, born in hospital, delivered by cesarean section"
+3405,145130,77081,Primary apnea of newborn,Primary apnea of newborn
+3405,145130,77981,Neonatal bradycardia,Neonatal bradycardia
+3405,145130,76518,Preterm NEC 2000-2499g,"Other preterm infants, 2,000-2,499 grams"
+3405,145130,76528,35-36 comp wks gestation,35-36 completed weeks of gestation
+3405,145130,V053,Need prphyl vc vrl hepat,Need for prophylactic vaccination and inoculation against viral hepatitis
+3129,157379,430,Subarachnoid hemorrhage,Subarachnoid hemorrhage
+3129,157379,4019,Hypertension NOS,Unspecified essential hypertension
+3129,157379,486,"Pneumonia, organism NOS","Pneumonia, organism unspecified"
+3129,157379,5990,Urin tract infection NOS,"Urinary tract infection, site not specified"
+1969,138907,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery
+1969,138907,9971,Surg compl-heart,"Cardiac complications, not elsewhere classified"
+1969,138907,4239,Pericardial disease NOS,Unspecified disease of pericardium
+1969,138907,42731,Atrial fibrillation,Atrial fibrillation
+1969,138907,4019,Hypertension NOS,Unspecified essential hypertension
+1969,138907,2720,Pure hypercholesterolem,Pure hypercholesterolemia
+1969,138907,V173,Fam hx-ischem heart dis,Family history of ischemic heart disease
+1969,138907,3051,Tobacco use disorder,Tobacco use disorder
+2168,160841,V3000,Single lb in-hosp w/o cs,"Single liveborn, born in hospital, delivered without mention of cesarean section"
+2168,160841,7750,Infant diabet mother syn,"Syndrome of ""infant of a diabetic mother"""
+2168,160841,V290,NB obsrv suspct infect,Observation for suspected infectious condition
+2168,160841,7783,NB hypothermia NEC,Other hypothermia of newborn
+2168,160841,V053,Need prphyl vc vrl hepat,Need for prophylactic vaccination and inoculation against viral hepatitis
+4628,108262,41031,"AMI inferopost, initial","Acute myocardial infarction of inferoposterior wall, initial episode of care"
+4628,108262,4271,Parox ventric tachycard,Paroxysmal ventricular tachycardia
+4628,108262,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery
+2431,163793,4240,Mitral valve disorder,Mitral valve disorders
+2431,163793,4295,Chordae tendinae rupture,Rupture of chordae tendineae
+2431,163793,5121,Iatrogenic pneumothorax,Iatrogenic pneumothorax
+2431,163793,7455,Secundum atrial sept def,Ostium secundum type atrial septal defect
+2431,163793,4019,Hypertension NOS,Unspecified essential hypertension
+2431,163793,49390,Asthma NOS,"Asthma, unspecified type, unspecified"
+6454,139880,25070,DMII circ nt st uncntrld,"Diabetes with peripheral circulatory disorders, type II or unspecified type, not stated as uncontrolled"
+6454,139880,70715,Ulcer other part of foot,Ulcer of other part of foot
+6454,139880,42731,Atrial fibrillation,Atrial fibrillation
+6454,139880,7854,Gangrene,Gangrene
+6454,139880,2851,Ac posthemorrhag anemia,Acute posthemorrhagic anemia
+6454,139880,496,Chr airway obstruct NEC,"Chronic airway obstruction, not elsewhere classified"
+6454,139880,2767,Hyperpotassemia,Hyperpotassemia
+6454,139880,51881,Acute respiratry failure,Acute respiratory failure
+6454,139880,68110,"Cellulitis, toe NOS","Cellulitis and abscess of toe, unspecified"
+4098,121963,03811,Meth susc Staph aur sept,Methicillin susceptible Staphylococcus aureus septicemia
+4098,121963,3241,Intraspinal abscess,Intraspinal abscess
+4098,121963,5990,Urin tract infection NOS,"Urinary tract infection, site not specified"
+4098,121963,486,"Pneumonia, organism NOS","Pneumonia, organism unspecified"
+4098,121963,4280,CHF NOS,"Congestive heart failure, unspecified"
+4098,121963,71106,Pyogen arthritis-l/leg,"Pyogenic arthritis, lower leg"
+4098,121963,99591,Sepsis,Sepsis
+4098,121963,73028,Osteomyelit NOS-oth site,"Unspecified osteomyelitis, other specified sites"
+4098,121963,42731,Atrial fibrillation,Atrial fibrillation
+4098,121963,25090,DMII unspf nt st uncntrl,"Diabetes with unspecified complication, type II or unspecified type, not stated as uncontrolled"
+4098,121963,28529,Anemia-other chronic dis,Anemia of other chronic disease
+4098,121963,04111,Mth sus Stph aur els/NOS,Methicillin susceptible Staphylococcus aureus in conditions classified elsewhere and of unspecified site
+4098,121963,7230,Cervical spinal stenosis,Spinal stenosis in cervical region
+4098,121963,2930,Delirium d/t other cond,Delirium due to conditions classified elsewhere
+4098,121963,V090,Inf mcrg rstn pncllins,Infection with microorganisms resistant to penicillins
+4098,121963,78820,Retention urine NOS,"Retention of urine, unspecified"
+4098,121963,4019,Hypertension NOS,Unspecified essential hypertension
+4098,121963,2869,Coagulat defect NEC/NOS,Other and unspecified coagulation defects
+4098,121963,2720,Pure hypercholesterolem,Pure hypercholesterolemia
+4098,121963,V4365,Joint replaced knee,Knee joint replacement
+5372,169887,2116,Benign neoplasm pancreas,"Benign neoplasm of pancreas, except islets of Langerhans"
+5372,169887,2762,Acidosis,Acidosis
+5372,169887,5771,Chronic pancreatitis,Chronic pancreatitis
+5372,169887,V1087,Hx of thyroid malignancy,Personal history of malignant neoplasm of thyroid
+5372,169887,2440,Postsurgical hypothyroid,Postsurgical hypothyroidism
+5372,169887,9951,Angioneurotic edema,"Angioneurotic edema, not elsewhere classified"
+5372,169887,E8786,Abn reac-organ rem NEC,"Removal of other organ (partial) (total) causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation"
+5372,169887,7861,Stridor,Stridor
+5462,112543,51881,Acute respiratry failure,Acute respiratory failure
+5462,112543,3561,Peroneal muscle atrophy,Peroneal muscular atrophy
+5462,112543,51889,Other lung disease NEC,"Other diseases of lung, not elsewhere classified"
+5462,112543,53081,Esophageal reflux,Esophageal reflux
+5462,112543,2809,Iron defic anemia NOS,"Iron deficiency anemia, unspecified"
+5462,112543,V440,Tracheostomy status,Tracheostomy status
+5650,103959,8056,Fx sacrum/coccyx-closed,Closed fracture of sacrum and coccyx without mention of spinal cord injury
+5650,103959,85141,Cerebell contus w/o coma,"Cerebellar or brain stem contusion without mention of open intracranial wound, with no loss of consciousness"
+5650,103959,8082,Fracture of pubis-closed,Closed fracture of pubis
+5650,103959,80705,Fracture five ribs-close,Closed fracture of five ribs
+5650,103959,E8130,Mv-oth veh coll-driver,Motor vehicle traffic accident involving collision with other vehicle injuring driver of motor vehicle other than motorcycle
+5656,199003,V714,Observ-accident NEC,Observation following other accident
+5656,199003,30500,Alcohol abuse-unspec,"Alcohol abuse, unspecified"
+5656,199003,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus
+5908,104067,99667,React-oth int ortho dev,"Infection and inflammatory reaction due to other internal orthopedic device, implant, and graft"
+5908,104067,5180,Pulmonary collapse,Pulmonary collapse
+5908,104067,5990,Urin tract infection NOS,"Urinary tract infection, site not specified"
+5908,104067,V433,Heart valve replac NEC,Heart valve replaced by other means
+5908,104067,4019,Hypertension NOS,Unspecified essential hypertension
+8483,196085,47821,Cellulitis of pharynx,Cellulitis of pharynx or nasopharynx
+8483,196085,2720,Pure hypercholesterolem,Pure hypercholesterolemia
+8483,196085,7842,Swelling in head & neck,"Swelling, mass, or lump in head and neck"
+7815,113156,25001,DMI wo cmp nt st uncntrl,"Diabetes mellitus without mention of complication, type I [juvenile type], not stated as uncontrolled"
+7815,113156,V420,Kidney transplant status,Kidney replaced by transplant
+7815,113156,V4581,Aortocoronary bypass,Aortocoronary bypass status
+7815,113156,4019,Hypertension NOS,Unspecified essential hypertension
+7815,113156,2384,Polycythemia vera,Polycythemia vera
+7815,113156,53081,Esophageal reflux,Esophageal reflux
+10390,170493,56213,Dvrtcli colon w hmrhg,Diverticulitis of colon with hemorrhage
+10390,170493,4280,CHF NOS,"Congestive heart failure, unspecified"
+10390,170493,42731,Atrial fibrillation,Atrial fibrillation
+10390,170493,49121,Obs chr bronc w(ac) exac,Obstructive chronic bronchitis with (acute) exacerbation
+10390,170493,2800,Chr blood loss anemia,Iron deficiency anemia secondary to blood loss (chronic)
+10390,170493,79092,Abnrml coagultion prfile,Abnormal coagulation profile
+10390,170493,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants
+10390,170493,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+10390,170493,V433,Heart valve replac NEC,Heart valve replaced by other means
+10024,131815,V3001,Single lb in-hosp w cs,"Single liveborn, born in hospital, delivered by cesarean section"
+10024,131815,V290,NB obsrv suspct infect,Observation for suspected infectious condition
+10024,131815,V502,Routine circumcision,Routine or ritual circumcision
+10024,131815,V053,Need prphyl vc vrl hepat,Need for prophylactic vaccination and inoculation against viral hepatitis
+10455,178035,41071,"Subendo infarct, initial","Subendocardial infarction, initial episode of care"
+10455,178035,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery
+10455,178035,7336,Tietze's disease,Tietze's disease
+9782,151652,0389,Septicemia NOS,Unspecified septicemia
+9782,151652,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus
+9782,151652,7104,Polymyositis,Polymyositis
+9782,151652,29532,Paranoid schizo-chronic,"Paranoid type schizophrenia, chronic"
+9782,151652,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+9782,151652,51881,Acute respiratry failure,Acute respiratory failure
+9782,151652,27651,Dehydration,Dehydration
+9782,151652,39891,Rheumatic heart failure,Rheumatic heart failure (congestive)
+9782,151652,3963,Mitral/aortic val insuff,Mitral valve insufficiency and aortic valve insufficiency
+9782,151652,99592,Severe sepsis,Severe sepsis
+9782,151652,53081,Esophageal reflux,Esophageal reflux
+9782,151652,2859,Anemia NOS,"Anemia, unspecified"
+12134,175361,6140,Ac salpingo-oophoritis,Acute salpingitis and oophoritis
+12134,175361,9982,Accidental op laceration,"Accidental puncture or laceration during a procedure, not elsewhere classified"
+12134,175361,2851,Ac posthemorrhag anemia,Acute posthemorrhagic anemia
+12134,175361,6146,Fem pelvic periton adhes,"Pelvic peritoneal adhesions, female (postoperative) (postinfection)"
+12134,175361,5680,Peritoneal adhesions,Peritoneal adhesions (postoperative) (postinfection)
+12134,175361,6141,Chr salpingo-oophoritis,Chronic salpingitis and oophoritis
+12134,175361,56989,Intestinal disorders NEC,Other specified disorders of intestine
+12134,175361,5738,Liver disorders NEC,Other specified disorders of liver
+13432,124788,53783,Angio stm/dudn w hmrhg,Angiodysplasia of stomach and duodenum with hemorrhage
+13432,124788,6820,Cellulitis of face,Cellulitis and abscess of face
+13432,124788,4241,Aortic valve disorder,Aortic valve disorders
+13432,124788,2800,Chr blood loss anemia,Iron deficiency anemia secondary to blood loss (chronic)
+13432,124788,42731,Atrial fibrillation,Atrial fibrillation
+13432,124788,V4581,Aortocoronary bypass,Aortocoronary bypass status
+13432,124788,42789,Cardiac dysrhythmias NEC,Other specified cardiac dysrhythmias
+13432,124788,53081,Esophageal reflux,Esophageal reflux
+13432,124788,2720,Pure hypercholesterolem,Pure hypercholesterolemia
+13432,124788,4019,Hypertension NOS,Unspecified essential hypertension
+13432,124788,56210,Dvrtclo colon w/o hmrhg,Diverticulosis of colon (without mention of hemorrhage)
+13432,124788,4139,Angina pectoris NEC/NOS,Other and unspecified angina pectoris
+11098,168252,99649,Mech com orth dev NEC,"Other mechanical complication of other internal orthopedic device, implant, and graft"
+11098,168252,2851,Ac posthemorrhag anemia,Acute posthemorrhagic anemia
+11098,168252,73719,Kyphosis NEC,Other kyphosis (acquired)
+11098,168252,5859,Chronic kidney dis NOS,"Chronic kidney disease, unspecified"
+11098,168252,V454,Arthrodesis status,Arthrodesis status
+11098,168252,V4364,Joint replaced hip,Hip joint replacement
+11098,168252,V4586,Bariatric surgery status,Bariatric surgery status
+11098,168252,78062,Postprocedural fever,Postprocedural fever
+11098,168252,32723,Obstructive sleep apnea,Obstructive sleep apnea (adult)(pediatric)
+11098,168252,40390,Hy kid NOS w cr kid I-IV,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+11098,168252,7385,Other acq back deformity,Other acquired deformity of back or spine
+11098,168252,3004,Dysthymic disorder,Dysthymic disorder
+11098,168252,E8781,Abn react-artif implant,"Surgical operation with implant of artificial internal device causing abnormal patient reaction, or later complication,without mention of misadventure at time of operation"
+11385,151452,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+11385,151452,4275,Cardiac arrest,Cardiac arrest
+11385,151452,4280,CHF NOS,"Congestive heart failure, unspecified"
+11385,151452,4241,Aortic valve disorder,Aortic valve disorders
+11385,151452,42731,Atrial fibrillation,Atrial fibrillation
+11385,151452,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+11385,151452,56211,Dvrtcli colon w/o hmrhg,Diverticulitis of colon (without mention of hemorrhage)
+11385,151452,4019,Hypertension NOS,Unspecified essential hypertension
+12612,141029,V3000,Single lb in-hosp w/o cs,"Single liveborn, born in hospital, delivered without mention of cesarean section"
+12612,141029,V290,NB obsrv suspct infect,Observation for suspected infectious condition
+12612,141029,V053,Need prphyl vc vrl hepat,Need for prophylactic vaccination and inoculation against viral hepatitis
+12943,101335,80122,Cl skul base fx/brf coma,"Closed fracture of base of skull with subarachnoid, subdural, and extradural hemorrhage, with brief [less than one hour] loss of consciousness"
+12943,101335,86121,Lung contusion-closed,Contusion of lung without mention of open wound into thorax
+12943,101335,8910,Open wnd knee/leg/ankle,"Open wound of knee, leg [except thigh], and ankle, without mention of complication"
+12943,101335,87340,Open wound of face NOS,"Open wound of face, unspecified site, without mention of complication"
+12943,101335,920,Contusion face/scalp/nck,"Contusion of face, scalp, and neck except eye(s)"
+12943,101335,8442,Sprain cruciate lig knee,Sprain of cruciate ligament of knee
+12943,101335,3051,Tobacco use disorder,Tobacco use disorder
+12943,101335,E8146,Mv coll w ped-ped cycl,Motor vehicle traffic accident involving collision with pedestrian injuring pedal cyclist
+15224,118343,V3001,Single lb in-hosp w cs,"Single liveborn, born in hospital, delivered by cesarean section"
+15224,118343,76515,Preterm NEC 1250-1499g,"Other preterm infants, 1,250-1,499 grams"
+15224,118343,76525,29-30 comp wks gestation,29-30 completed weeks of gestation
+15224,118343,7756,Neonatal hypoglycemia,Neonatal hypoglycemia
+15224,118343,V290,NB obsrv suspct infect,Observation for suspected infectious condition
+14705,116885,4280,CHF NOS,"Congestive heart failure, unspecified"
+14705,116885,486,"Pneumonia, organism NOS","Pneumonia, organism unspecified"
+14705,116885,496,Chr airway obstruct NEC,"Chronic airway obstruction, not elsewhere classified"
+14705,116885,5119,Pleural effusion NOS,Unspecified pleural effusion
+14705,116885,25040,DMII renl nt st uncntrld,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled"
+14705,116885,40391,Hyp kid NOS w cr kid V,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease"
+14705,116885,42731,Atrial fibrillation,Atrial fibrillation
+14705,116885,515,Postinflam pulm fibrosis,Postinflammatory pulmonary fibrosis
+14705,116885,2859,Anemia NOS,"Anemia, unspecified"
+14705,116885,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery
+14705,116885,60001,BPH w urinary obs/LUTS,Hypertrophy (benign) of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS)
+16049,118280,1890,Malig neopl kidney,"Malignant neoplasm of kidney, except pelvis"
+16049,118280,5121,Iatrogenic pneumothorax,Iatrogenic pneumothorax
+16049,118280,1987,Second malig neo adrenal,Secondary malignant neoplasm of adrenal gland
+16049,118280,1985,Secondary malig neo bone,Secondary malignant neoplasm of bone and bone marrow
+16049,118280,E8788,Abn react-surg proc NEC,"Other specified surgical operations and procedures causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation"
+16049,118280,E8497,Accid in resident instit,Accidents occurring in residential institution
+16467,126733,V3001,Single lb in-hosp w cs,"Single liveborn, born in hospital, delivered by cesarean section"
+16467,126733,7757,Late metab acidosis NB,Late metabolic acidosis of newborn
+16467,126733,7661,Heavy-for-date infan NEC,"Other ""heavy-for-dates"" infants"
+16467,126733,76389,Compl del NEC aff NB,Other specified complications of labor and delivery affecting fetus or newborn
+16467,126733,V058,Vaccin for disease NEC,Need for prophylactic vaccination and inoculation against other specified disease
+16467,126733,V290,NB obsrv suspct infect,Observation for suspected infectious condition
+17261,100052,6111,Hypertrophy of breast,Hypertrophy of breast
+17261,100052,2768,Hypopotassemia,Hypopotassemia
+17261,100052,7018,Skin hypertro/atroph NEC,Other specified hypertrophic and atrophic conditions of skin
+17261,100052,5533,Diaphragmatic hernia,Diaphragmatic hernia without mention of obstruction or gangrene
+17261,100052,72252,Lumb/lumbosac disc degen,Degeneration of lumbar or lumbosacral intervertebral disc
+16289,159942,V3000,Single lb in-hosp w/o cs,"Single liveborn, born in hospital, delivered without mention of cesarean section"
+16289,159942,7821,Nonspecif skin erupt NEC,Rash and other nonspecific skin eruption
+16289,159942,75251,Undescended testis,Undescended testis
+16289,159942,7746,Fetal/neonatal jaund NOS,Unspecified fetal and neonatal jaundice
+16289,159942,V502,Routine circumcision,Routine or ritual circumcision
+16289,159942,V053,Need prphyl vc vrl hepat,Need for prophylactic vaccination and inoculation against viral hepatitis
+16289,159942,V290,NB obsrv suspct infect,Observation for suspected infectious condition
+19294,125280,39891,Rheumatic heart failure,Rheumatic heart failure (congestive)
+19294,125280,5119,Pleural effusion NOS,Unspecified pleural effusion
+19294,125280,3970,Tricuspid valve disease,Diseases of tricuspid valve
+19294,125280,3962,Mitral insuf/aort stenos,Mitral valve insufficiency and aortic valve stenosis
+19294,125280,99811,Hemorrhage complic proc,Hemorrhage complicating a procedure
+19294,125280,42731,Atrial fibrillation,Atrial fibrillation
+19294,125280,2869,Coagulat defect NEC/NOS,Other and unspecified coagulation defects
+19294,125280,E8788,Abn react-surg proc NEC,"Other specified surgical operations and procedures causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation"
+19294,125280,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery
+18867,120552,55221,Obstr incisional hernia,Incisional ventral hernia with obstruction
+18867,120552,5680,Peritoneal adhesions,Peritoneal adhesions (postoperative) (postinfection)
+18867,120552,27801,Morbid obesity,Morbid obesity
+18867,120552,4019,Hypertension NOS,Unspecified essential hypertension
+18867,120552,47829,Disease of pharynx NEC,"Other diseases of pharynx, not elsewhere classified"
+18867,120552,78057,Sleep apnea NOS,Unspecified sleep apnea
+18867,120552,V707,Exam-clincal trial,Examination of participant in clinical trial
+16095,135976,V3101,Twin-mate lb-in hos w cs,"Twin birth, mate liveborn, born in hospital, delivered by cesarean section"
+16095,135976,76516,Preterm NEC 1500-1749g,"Other preterm infants, 1,500-1,749 grams"
+16095,135976,769,Respiratory distress syn,Respiratory distress syndrome in newborn
+16095,135976,7742,Neonat jaund preterm del,Neonatal jaundice associated with preterm delivery
+16095,135976,76526,31-32 comp wks gestation,31-32 completed weeks of gestation
+16095,135976,77081,Primary apnea of newborn,Primary apnea of newborn
+16095,135976,7767,Neonatal neutropenia,Transient neonatal neutropenia
+16095,135976,V290,NB obsrv suspct infect,Observation for suspected infectious condition
+18614,194522,51881,Acute respiratry failure,Acute respiratory failure
+18614,194522,51902,Tracheostomy - mech comp,Mechanical complication of tracheostomy
+18614,194522,1970,Secondary malig neo lung,Secondary malignant neoplasm of lung
+18614,194522,3962,Mitral insuf/aort stenos,Mitral valve insufficiency and aortic valve stenosis
+18614,194522,39891,Rheumatic heart failure,Rheumatic heart failure (congestive)
+18614,194522,51919,Trachea & bronch dis NEC,Other diseases of trachea and bronchus
+18614,194522,4589,Hypotension NOS,"Hypotension, unspecified"
+18614,194522,5569,Ulceratve colitis unspcf,"Ulcerative colitis, unspecified"
+18614,194522,49390,Asthma NOS,"Asthma, unspecified type, unspecified"
+18614,194522,4019,Hypertension NOS,Unspecified essential hypertension
+18614,194522,V1087,Hx of thyroid malignancy,Personal history of malignant neoplasm of thyroid
+18614,194522,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants
+18614,194522,V103,Hx of breast malignancy,Personal history of malignant neoplasm of breast
+18011,171489,V3101,Twin-mate lb-in hos w cs,"Twin birth, mate liveborn, born in hospital, delivered by cesarean section"
+18011,171489,76516,Preterm NEC 1500-1749g,"Other preterm infants, 1,500-1,749 grams"
+18011,171489,7742,Neonat jaund preterm del,Neonatal jaundice associated with preterm delivery
+18011,171489,76526,31-32 comp wks gestation,31-32 completed weeks of gestation
+18011,171489,V290,NB obsrv suspct infect,Observation for suspected infectious condition
+18011,171489,V502,Routine circumcision,Routine or ritual circumcision
+18011,171489,V053,Need prphyl vc vrl hepat,Need for prophylactic vaccination and inoculation against viral hepatitis
+19892,104057,51889,Other lung disease NEC,"Other diseases of lung, not elsewhere classified"
+19892,104057,9982,Accidental op laceration,"Accidental puncture or laceration during a procedure, not elsewhere classified"
+19892,104057,E8704,Acc cut/hem w scope exam,"Accidental cut, puncture, perforation or hemorrhage during endoscopic examination"
+19892,104057,E8497,Accid in resident instit,Accidents occurring in residential institution
+19892,104057,4019,Hypertension NOS,Unspecified essential hypertension
+19892,104057,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+19892,104057,2449,Hypothyroidism NOS,Unspecified acquired hypothyroidism
+19892,104057,53081,Esophageal reflux,Esophageal reflux
+19892,104057,49390,Asthma NOS,"Asthma, unspecified type, unspecified"
+19967,146232,V331,Twin NOS-before admissn,"Twin birth, unspecified whether mate liveborn or stillborn, born before admission to hospital"
+19967,146232,769,Respiratory distress syn,Respiratory distress syndrome in newborn
+19967,146232,7742,Neonat jaund preterm del,Neonatal jaundice associated with preterm delivery
+19967,146232,76406,Lt-for-dates 1500-1749g,"""Light-for-dates"" without mention of fetal malnutrition, 1,500- 1,749 grams"
+19967,146232,76516,Preterm NEC 1500-1749g,"Other preterm infants, 1,500-1,749 grams"
+19967,146232,V290,NB obsrv suspct infect,Observation for suspected infectious condition
+21790,164361,V3000,Single lb in-hosp w/o cs,"Single liveborn, born in hospital, delivered without mention of cesarean section"
+21790,164361,V502,Routine circumcision,Routine or ritual circumcision
+21790,164361,V053,Need prphyl vc vrl hepat,Need for prophylactic vaccination and inoculation against viral hepatitis
+21454,115782,4240,Mitral valve disorder,Mitral valve disorders
+21454,115782,4280,CHF NOS,"Congestive heart failure, unspecified"
+21454,115782,51882,Other pulmonary insuff,"Other pulmonary insufficiency, not elsewhere classified"
+21454,115782,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery
+21454,115782,4019,Hypertension NOS,Unspecified essential hypertension
+21454,115782,41072,"Subendo infarct, subseq","Subendocardial infarction, subsequent episode of care"
+21454,115782,2720,Pure hypercholesterolem,Pure hypercholesterolemia
+21454,115782,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+21454,115782,V4582,Status-post ptca,Percutaneous transluminal coronary angioplasty status
+21828,158874,8505,Concussion w coma NOS,Concussion with loss of consciousness of unspecified duration
+23028,117744,9694,Pois-benzodiazepine tran,Poisoning by benzodiazepine-based tranquilizers
+23028,117744,5990,Urin tract infection NOS,"Urinary tract infection, site not specified"
+23028,117744,2762,Acidosis,Acidosis
+23028,117744,30560,Cocaine abuse-unspec,"Cocaine abuse, unspecified"
+23028,117744,78097,Altered mental status,Altered mental status
+23028,117744,25060,DMII neuro nt st uncntrl,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+23028,117744,3572,Neuropathy in diabetes,Polyneuropathy in diabetes
+23028,117744,V08,Asymp hiv infectn status,Asymptomatic human immunodeficiency virus [HIV] infection status
+23028,117744,E8529,Acc poison-sedatives NOS,Accidental poisoning by unspecified sedative or hypnotic
+23028,117744,29680,Bipolar disorder NOS,"Bipolar disorder, unspecified"
+23028,117744,79902,Hypoxemia,Hypoxemia
+23028,117744,07070,Hpt C w/o hepat coma NOS,Unspecified viral hepatitis C without hepatic coma
+23028,117744,78079,Malaise and fatigue NEC,Other malaise and fatigue
+23028,117744,3384,Chronic pain syndrome,Chronic pain syndrome
+23028,117744,27801,Morbid obesity,Morbid obesity
+23028,117744,9679,Pois-sedative/hypnot NOS,Poisoning by unspecified sedative or hypnotic
+23028,117744,3004,Dysthymic disorder,Dysthymic disorder
+23028,117744,2449,Hypothyroidism NOS,Unspecified acquired hypothyroidism
+23028,117744,3051,Tobacco use disorder,Tobacco use disorder
+23028,117744,7821,Nonspecif skin erupt NEC,Rash and other nonspecific skin eruption
+22209,149456,V3001,Single lb in-hosp w cs,"Single liveborn, born in hospital, delivered by cesarean section"
+22209,149456,V053,Need prphyl vc vrl hepat,Need for prophylactic vaccination and inoculation against viral hepatitis
+22209,149456,V290,NB obsrv suspct infect,Observation for suspected infectious condition
+23456,115112,80420,Cl skl/oth fx/mening hem,"Closed fractures involving skull or face with other bones with subarachnoid, subdural, and extradural hemorrhage, unspecified state of consciousness"
+23456,115112,80430,Cl skul w oth fx/hem NEC,"Closed fractures involving skull or face with other bones, with other and unspecified intracranial hemorrhage, unspecified state of consciousness"
+23456,115112,E8889,Fall NOS,Unspecified fall
+23456,115112,80410,Cl sk w oth fx/cereb lac,"Closed fractures involving skull or face with other bones, with cerebral laceration and contusion, unspecified state of consciousness"
+23456,115112,9539,Inj nerve root/plex NOS,Injury to unspecified site of nerve roots and spinal plexus
+23456,115112,48241,Meth sus pneum d/t Staph,Methicillin susceptible pneumonia due to Staphylococcus aureus
+23456,115112,5180,Pulmonary collapse,Pulmonary collapse
+23456,115112,47830,Vocal cord paralysis NOS,"Paralysis of vocal cords or larynx, unspecified"
+23456,115112,42789,Cardiac dysrhythmias NEC,Other specified cardiac dysrhythmias
+25084,149748,4168,Chr pulmon heart dis NEC,Other chronic pulmonary heart diseases
+25084,149748,51881,Acute respiratry failure,Acute respiratory failure
+25084,149748,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+25084,149748,4928,Emphysema NEC,Other emphysema
+25084,149748,30560,Cocaine abuse-unspec,"Cocaine abuse, unspecified"
+25084,149748,4241,Aortic valve disorder,Aortic valve disorders
+25084,149748,3970,Tricuspid valve disease,Diseases of tricuspid valve
+25084,149748,2762,Acidosis,Acidosis
+25084,149748,5119,Pleural effusion NOS,Unspecified pleural effusion
+25084,149748,4280,CHF NOS,"Congestive heart failure, unspecified"
+25084,149748,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants
+25084,149748,51889,Other lung disease NEC,"Other diseases of lung, not elsewhere classified"
+25084,149748,V1041,Hx-cervical malignancy,Personal history of malignant neoplasm of cervix uteri
+25084,149748,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia
+26174,184433,25041,DMI renl nt st uncntrld,"Diabetes with renal manifestations, type I [juvenile type], not stated as uncontrolled"
+26174,184433,9971,Surg compl-heart,"Cardiac complications, not elsewhere classified"
+26174,184433,41031,"AMI inferopost, initial","Acute myocardial infarction of inferoposterior wall, initial episode of care"
+26174,184433,4280,CHF NOS,"Congestive heart failure, unspecified"
+26174,184433,42731,Atrial fibrillation,Atrial fibrillation
+26174,184433,2639,Protein-cal malnutr NOS,Unspecified protein-calorie malnutrition
+26174,184433,78559,Shock w/o trauma NEC,Other shock without mention of trauma
+26174,184433,2767,Hyperpotassemia,Hyperpotassemia
+26174,184433,E8780,Abn react-org transplant,"Surgical operation with transplant of whole organ causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation"
+26125,107965,1890,Malig neopl kidney,"Malignant neoplasm of kidney, except pelvis"
+26125,107965,19889,Secondary malig neo NEC,Secondary malignant neoplasm of other specified sites
+26125,107965,4532,Oth inf vena cava thromb,Other venous embolism and thrombosis of inferior vena cava
+26125,107965,41519,Pulm embol/infarct NEC,Other pulmonary embolism and infarction
+26125,107965,2859,Anemia NOS,"Anemia, unspecified"
+26868,169973,42833,Ac on chr diast hrt fail,Acute on chronic diastolic heart failure
+26868,169973,5856,End stage renal disease,End stage renal disease
+26868,169973,74681,Cong subaortic stenosis,Subaortic stenosis
+26868,169973,40391,Hyp kid NOS w cr kid V,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease"
+26868,169973,42732,Atrial flutter,Atrial flutter
+26868,169973,4280,CHF NOS,"Congestive heart failure, unspecified"
+26868,169973,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+26868,169973,496,Chr airway obstruct NEC,"Chronic airway obstruction, not elsewhere classified"
+26868,169973,4439,Periph vascular dis NOS,"Peripheral vascular disease, unspecified"
+26868,169973,V4975,Status amput below knee,Below knee amputation status
+26868,169973,42731,Atrial fibrillation,Atrial fibrillation
+26868,169973,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants
+30571,172451,V3000,Single lb in-hosp w/o cs,"Single liveborn, born in hospital, delivered without mention of cesarean section"
+30571,172451,76519,Preterm NEC 2500+g,"Other preterm infants, 2,500 grams and over"
+30571,172451,77089,Resp prob after brth NEC,Other respiratory problems after birth
+30571,172451,7742,Neonat jaund preterm del,Neonatal jaundice associated with preterm delivery
+30571,172451,76528,35-36 comp wks gestation,35-36 completed weeks of gestation
+30571,172451,V290,NB obsrv suspct infect,Observation for suspected infectious condition
+28174,129013,40300,Mal hy kid w cr kid I-IV,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage I through stage IV, or unspecified"
+28174,129013,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+28174,129013,5854,Chr kidney dis stage IV,"Chronic kidney disease, Stage IV (severe)"
+28174,129013,42822,Chr systolic hrt failure,Chronic systolic heart failure
+28174,129013,2851,Ac posthemorrhag anemia,Acute posthemorrhagic anemia
+28174,129013,2767,Hyperpotassemia,Hyperpotassemia
+28174,129013,28521,Anemia in chr kidney dis,Anemia in chronic kidney disease
+28174,129013,E8796,Abn react-urinary cath,"Urinary catheterization as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure"
+28174,129013,4928,Emphysema NEC,Other emphysema
+28174,129013,4280,CHF NOS,"Congestive heart failure, unspecified"
+28174,129013,60001,BPH w urinary obs/LUTS,Hypertrophy (benign) of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS)
+28174,129013,78820,Retention urine NOS,"Retention of urine, unspecified"
+28174,129013,2875,Thrombocytopenia NOS,"Thrombocytopenia, unspecified"
+28174,129013,V1005,Hx of colonic malignancy,Personal history of malignant neoplasm of large intestine
+28115,137568,4271,Parox ventric tachycard,Paroxysmal ventricular tachycardia
+28115,137568,42823,Ac on chr syst hrt fail,Acute on chronic systolic heart failure
+28115,137568,5853,Chr kidney dis stage III,"Chronic kidney disease, Stage III (moderate)"
+28115,137568,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+28115,137568,4280,CHF NOS,"Congestive heart failure, unspecified"
+28115,137568,V5339,Ftng oth cardiac device,Fitting and adjustment of other cardiac device
+28115,137568,42731,Atrial fibrillation,Atrial fibrillation
+28115,137568,4148,Chr ischemic hrt dis NEC,Other specified forms of chronic ischemic heart disease
+28115,137568,V4582,Status-post ptca,Percutaneous transluminal coronary angioplasty status
+28115,137568,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia
+28115,137568,53081,Esophageal reflux,Esophageal reflux
+28115,137568,40390,Hy kid NOS w cr kid I-IV,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+28115,137568,412,Old myocardial infarct,Old myocardial infarction
+28115,137568,V1741,Fam hx sudden card death,Family history of sudden cardiac death (SCD)
+28115,137568,44020,Athscl extrm ntv art NOS,"Atherosclerosis of native arteries of the extremities, unspecified"
+30731,184324,80126,Cl skul base fx-coma NOS,"Closed fracture of base of skull with subarachnoid, subdural, and extradural hemorrhage, with loss of consciousness of unspecified duration"
+30731,184324,51881,Acute respiratry failure,Acute respiratory failure
+30731,184324,2869,Coagulat defect NEC/NOS,Other and unspecified coagulation defects
+30731,184324,5712,Alcohol cirrhosis liver,Alcoholic cirrhosis of liver
+30731,184324,30391,Alcoh dep NEC/NOS-contin,"Other and unspecified alcohol dependence, continuous"
+30731,184324,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus
+30731,184324,99859,Other postop infection,Other postoperative infection
+30731,184324,03842,E coli septicemia,Septicemia due to escherichia coli [E. coli]
+30731,184324,99592,Severe sepsis,Severe sepsis
+30731,184324,80136,Cl skul base fx-coma NOS,"Closed fracture of base of skull with other and unspecified intracranial hemorrhage, with loss of consciousness of unspecified duration"
+30731,184324,E8889,Fall NOS,Unspecified fall
+30731,184324,5723,Portal hypertension,Portal hypertension
+30731,184324,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+30731,184324,4019,Hypertension NOS,Unspecified essential hypertension
+30217,149591,43310,Ocl crtd art wo infrct,Occlusion and stenosis of carotid artery without mention of cerebral infarction
+30217,149591,4019,Hypertension NOS,Unspecified essential hypertension
+30217,149591,2449,Hypothyroidism NOS,Unspecified acquired hypothyroidism
+30217,149591,78791,Diarrhea,Diarrhea
+30145,145049,51881,Acute respiratry failure,Acute respiratory failure
+30145,145049,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus
+30145,145049,3481,Anoxic brain damage,Anoxic brain damage
+30145,145049,3453,Grand mal status,Grand mal status
+30145,145049,4275,Cardiac arrest,Cardiac arrest
+30145,145049,4019,Hypertension NOS,Unspecified essential hypertension
+30145,145049,2948,Mental disor NEC oth dis,Other persistent mental disorders due to conditions classified elsewhere
+30145,145049,2767,Hyperpotassemia,Hyperpotassemia
+30145,145049,7904,Elev transaminase/ldh,Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH]
+29929,140856,53649,Gastrostomy comp NEC,Other gastrostomy complications
+29929,140856,53100,Ac stomach ulcer w hem,"Acute gastric ulcer with hemorrhage, without mention of obstruction"
+29929,140856,5374,Gastric/duodenal fistula,Fistula of stomach or duodenum
+29929,140856,5601,Paralytic ileus,Paralytic ileus
+29929,140856,3308,Cereb degen in child NEC,Other specified cerebral degenerations in childhood
+29929,140856,3181,Sev intellect disability,Severe intellectual disabilities
+29929,140856,2851,Ac posthemorrhag anemia,Acute posthemorrhagic anemia
+29929,140856,1122,Candidias urogenital NEC,Candidiasis of other urogenital sites
+29929,140856,9982,Accidental op laceration,"Accidental puncture or laceration during a procedure, not elsewhere classified"
+29929,140856,42789,Cardiac dysrhythmias NEC,Other specified cardiac dysrhythmias
+29929,140856,27651,Dehydration,Dehydration
+29929,140856,34590,Epilep NOS w/o intr epil,"Epilepsy, unspecified, without mention of intractable epilepsy"
+29929,140856,73300,Osteoporosis NOS,"Osteoporosis, unspecified"
+29929,140856,E8700,Acc cut/hem in surgery,"Accidental cut, puncture, perforation or hemorrhage during surgical operation"
+30688,138569,V3000,Single lb in-hosp w/o cs,"Single liveborn, born in hospital, delivered without mention of cesarean section"
+30688,138569,76519,Preterm NEC 2500+g,"Other preterm infants, 2,500 grams and over"
+30688,138569,7742,Neonat jaund preterm del,Neonatal jaundice associated with preterm delivery
+30688,138569,7756,Neonatal hypoglycemia,Neonatal hypoglycemia
+30688,138569,76528,35-36 comp wks gestation,35-36 completed weeks of gestation
+30688,138569,7783,NB hypothermia NEC,Other hypothermia of newborn
+30688,138569,V502,Routine circumcision,Routine or ritual circumcision
+30688,138569,V053,Need prphyl vc vrl hepat,Need for prophylactic vaccination and inoculation against viral hepatitis
+29962,127902,V3101,Twin-mate lb-in hos w cs,"Twin birth, mate liveborn, born in hospital, delivered by cesarean section"
+29962,127902,769,Respiratory distress syn,Respiratory distress syndrome in newborn
+29962,127902,77081,Primary apnea of newborn,Primary apnea of newborn
+29962,127902,76516,Preterm NEC 1500-1749g,"Other preterm infants, 1,500-1,749 grams"
+29962,127902,76526,31-32 comp wks gestation,31-32 completed weeks of gestation
+29962,127902,7742,Neonat jaund preterm del,Neonatal jaundice associated with preterm delivery
+29962,127902,V053,Need prphyl vc vrl hepat,Need for prophylactic vaccination and inoculation against viral hepatitis
+31482,147928,99666,React-inter joint prost,Infection and inflammatory reaction due to internal joint prosthesis
+31482,147928,71106,Pyogen arthritis-l/leg,"Pyogenic arthritis, lower leg"
+31482,147928,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+31482,147928,27650,Volume depletion NOS,"Volume depletion, unspecified"
+31482,147928,27652,Hypovolemia,Hypovolemia
+31482,147928,29281,Drug-induced delirium,Drug-induced delirium
+31482,147928,2851,Ac posthemorrhag anemia,Acute posthemorrhagic anemia
+31482,147928,04119,Other staphylococcus,"Staphylococcus infection in conditions classified elsewhere and of unspecified site, other staphylococcus"
+31482,147928,V4365,Joint replaced knee,Knee joint replacement
+31482,147928,E8781,Abn react-artif implant,"Surgical operation with implant of artificial internal device causing abnormal patient reaction, or later complication,without mention of misadventure at time of operation"
+31482,147928,E8499,Accident in place NOS,Accidents occurring in unspecified place
+31482,147928,2449,Hypothyroidism NOS,Unspecified acquired hypothyroidism
+31482,147928,4019,Hypertension NOS,Unspecified essential hypertension
+31482,147928,311,Depressive disorder NEC,"Depressive disorder, not elsewhere classified"
+31482,147928,138,Late effect acute polio,Late effects of acute poliomyelitis
+31482,147928,4589,Hypotension NOS,"Hypotension, unspecified"
+31482,147928,E9379,Adv eff sedat/hypnot NOS,Unspecified sedatives and hypnotics causing adverse effects in therapeutic use
+31482,147928,E8497,Accid in resident instit,Accidents occurring in residential institution
+31482,147928,23871,Essntial thrombocythemia,Essential thrombocythemia
+32319,164973,41061,"True post infarct, init","True posterior wall infarction, initial episode of care"
+32319,164973,42821,Ac systolic hrt failure,Acute systolic heart failure
+32319,164973,41402,Crn ath atlg vn bps grft,Coronary atherosclerosis of autologous vein bypass graft
+32319,164973,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+32319,164973,5990,Urin tract infection NOS,"Urinary tract infection, site not specified"
+32319,164973,42732,Atrial flutter,Atrial flutter
+32319,164973,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery
+32319,164973,4280,CHF NOS,"Congestive heart failure, unspecified"
+32319,164973,4019,Hypertension NOS,Unspecified essential hypertension
+32319,164973,53081,Esophageal reflux,Esophageal reflux
+32319,164973,2720,Pure hypercholesterolem,Pure hypercholesterolemia
+31625,110474,42781,Sinoatrial node dysfunct,Sinoatrial node dysfunction
+31625,110474,4280,CHF NOS,"Congestive heart failure, unspecified"
+31625,110474,42731,Atrial fibrillation,Atrial fibrillation
+31625,110474,4139,Angina pectoris NEC/NOS,Other and unspecified angina pectoris
+31625,110474,4271,Parox ventric tachycard,Paroxysmal ventricular tachycardia
+31625,110474,2762,Acidosis,Acidosis
+31625,110474,4254,Prim cardiomyopathy NEC,Other primary cardiomyopathies
+31625,110474,99812,Hematoma complic proc,Hematoma complicating a procedure
+31625,110474,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants
+31625,110474,4019,Hypertension NOS,Unspecified essential hypertension
+31625,110474,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery
+31625,110474,E8788,Abn react-surg proc NEC,"Other specified surgical operations and procedures causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation"
+30989,103653,83114,Disloc acromioclavic-opn,Open dislocation of acromioclavicular (joint)
+30989,103653,82535,Fx metatarsal-open,Open fracture of metatarsal bone(s)
+30989,103653,86601,Kidney hematoma-closed,"Injury to kidney without mention of open wound into cavity, hematoma without rupture of capsule"
+30989,103653,80702,Fracture two ribs-closed,Closed fracture of two ribs
+30989,103653,8600,Traum pneumothorax-close,Traumatic pneumothorax without mention of open wound into thorax
+30989,103653,9190,Abrasion NEC,"Abrasion or friction burn of other, multiple, and unspecified sites, without mention of infection"
+30989,103653,920,Contusion face/scalp/nck,"Contusion of face, scalp, and neck except eye(s)"
+30989,103653,E8152,Mv coll w oth obj-mocycl,Other motor vehicle traffic accident involving collision on the highway injuring motorcyclist
+41803,161409,1578,Malig neo pancreas NEC,Malignant neoplasm of other specified sites of pancreas
+41803,161409,5720,Abscess of liver,Abscess of liver
+41803,161409,1962,Mal neo lymph intra-abd,Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes
+41803,161409,5990,Urin tract infection NOS,"Urinary tract infection, site not specified"
+41803,161409,9986,Persist postop fistula,Persistent postoperative fistula
+41803,161409,78820,Retention urine NOS,"Retention of urine, unspecified"
+41803,161409,2449,Hypothyroidism NOS,Unspecified acquired hypothyroidism
+41803,161409,74761,Gstrontest vesl anomaly,Gastrointestinal vessel anomaly
+41803,161409,3051,Tobacco use disorder,Tobacco use disorder
+41803,161409,E8782,Abn react-anastom/graft,"Surgical operation with anastomosis, bypass, or graft, with natural or artificial tissues used as implant causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation"
+41803,161409,04104,Enterococcus group d,"Streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group D [Enterococcus]"
+32797,118731,55321,Incisional hernia,Incisional hernia without mention of obstruction or gangrene
+32797,118731,51881,Acute respiratry failure,Acute respiratory failure
+32797,118731,5856,End stage renal disease,End stage renal disease
+32797,118731,40391,Hyp kid NOS w cr kid V,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease"
+32797,118731,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+32797,118731,5180,Pulmonary collapse,Pulmonary collapse
+32797,118731,2762,Acidosis,Acidosis
+32797,118731,99682,Compl liver transplant,Complications of transplanted liver
+32797,118731,5680,Peritoneal adhesions,Peritoneal adhesions (postoperative) (postinfection)
+32797,118731,44021,Ath ext ntv at w claudct,Atherosclerosis of native arteries of the extremities with intermittent claudication
+32797,118731,2767,Hyperpotassemia,Hyperpotassemia
+32797,118731,30403,Opioid dependence-remiss,"Opioid type dependence, in remission"
+32797,118731,30393,Alcoh dep NEC/NOS-remiss,"Other and unspecified alcohol dependence, in remission"
+32797,118731,V5869,Long-term use meds NEC,Long-term (current) use of other medications
+32797,118731,73390,Bone & cartilage dis NOS,"Disorder of bone and cartilage, unspecified"
+32797,118731,E9478,Adv eff medicinal NEC,Other drugs and medicinal substances causing adverse effects in therapeutic use
+32797,118731,E8497,Accid in resident instit,Accidents occurring in residential institution
+32797,118731,07054,Chrnc hpt C wo hpat coma,Chronic hepatitis C without mention of hepatic coma
+32797,118731,5715,Cirrhosis of liver NOS,Cirrhosis of liver without mention of alcohol
+32797,118731,E8780,Abn react-org transplant,"Surgical operation with transplant of whole organ causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation"
+32797,118731,49320,Chronic obst asthma NOS,"Chronic obstructive asthma, unspecified"
+46423,181606,42833,Ac on chr diast hrt fail,Acute on chronic diastolic heart failure
+46423,181606,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+46423,181606,7907,Bacteremia,Bacteremia
+46423,181606,4280,CHF NOS,"Congestive heart failure, unspecified"
+46423,181606,40390,Hy kid NOS w cr kid I-IV,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+46423,181606,04119,Other staphylococcus,"Staphylococcus infection in conditions classified elsewhere and of unspecified site, other staphylococcus"
+46423,181606,V667,Encountr palliative care,Encounter for palliative care
+46423,181606,43813,Late eff CV-dysarthria,"Late effects of cerebrovascular disease, dysarthria"
+46423,181606,43889,Late effect CV dis NEC,Other late effects of cerebrovascular disease
+46423,181606,78079,Malaise and fatigue NEC,Other malaise and fatigue
+46423,181606,29040,"Vascular dementia,uncomp","Vascular dementia, uncomplicated"
+46423,181606,4370,Cerebral atherosclerosis,Cerebral atherosclerosis
+46423,181606,5859,Chronic kidney dis NOS,"Chronic kidney disease, unspecified"
+46423,181606,5363,Gastroparesis,Gastroparesis
+46423,181606,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+46423,181606,78830,Urinary incontinence NOS,"Urinary incontinence, unspecified"
+46423,181606,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia
+46423,181606,3659,Glaucoma NOS,Unspecified glaucoma
+46423,181606,7078,Chronic skin ulcer NEC,Chronic ulcer of other specified sites
+46423,181606,311,Depressive disorder NEC,"Depressive disorder, not elsewhere classified"
+46423,181606,2859,Anemia NOS,"Anemia, unspecified"
+46423,181606,V1302,Personal history UTI,"Personal history, urinary (tract) infection"
+46423,181606,V1251,Hx-ven thrombosis/embols,Personal history of venous thrombosis and embolism
+46423,181606,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants
+32522,148268,4414,Abdom aortic aneurysm,Abdominal aneurysm without mention of rupture
+32522,148268,5845,"Ac kidny fail, tubr necr",Acute kidney failure with lesion of tubular necrosis
+32522,148268,40391,Hyp kid NOS w cr kid V,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease"
+32522,148268,5856,End stage renal disease,End stage renal disease
+32522,148268,42830,Diastolc hrt failure NOS,"Diastolic heart failure, unspecified"
+32522,148268,99811,Hemorrhage complic proc,Hemorrhage complicating a procedure
+32522,148268,2851,Ac posthemorrhag anemia,Acute posthemorrhagic anemia
+32522,148268,5770,Acute pancreatitis,Acute pancreatitis
+32522,148268,5579,Vasc insuff intest NOS,Unspecified vascular insufficiency of intestine
+32522,148268,9975,Surg compl-urinary tract,"Urinary complications, not elsewhere classified"
+32522,148268,4280,CHF NOS,"Congestive heart failure, unspecified"
+32522,148268,57510,Cholecystitis NOS,"Cholecystitis, unspecified"
+46423,181606,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus
+46423,181606,51881,Acute respiratry failure,Acute respiratory failure
+44232,176076,85221,Subdural hem w/o coma,"Subdural hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness"
+44232,176076,81342,Fx distal radius NEC-cl,Other closed fractures of distal end of radius (alone)
+44232,176076,20070,Large cell lymph xtrndl,"Large cell lymphoma, unspecified site, extranodal and solid organ sites"
+44232,176076,591,Hydronephrosis,Hydronephrosis
+44232,176076,6823,Cellulitis of arm,Cellulitis and abscess of upper arm and forearm
+44232,176076,2536,Neurohypophysis dis NEC,Other disorders of neurohypophysis
+44232,176076,5990,Urin tract infection NOS,"Urinary tract infection, site not specified"
+44232,176076,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+44232,176076,87342,Open wound of forehead,"Open wound of forehead, without mention of complication"
+44232,176076,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+44232,176076,4019,Hypertension NOS,Unspecified essential hypertension
+44232,176076,2859,Anemia NOS,"Anemia, unspecified"
+44232,176076,04149,E.coli infection NEC/NOS,Other and unspecified Escherichia coli [E. coli]
+44232,176076,V1041,Hx-cervical malignancy,Personal history of malignant neoplasm of cervix uteri
+44232,176076,E8490,Accident in home,Home accidents
+44232,176076,E8809,Fall on stair/step NEC,Accidental fall on or from other stairs or steps
+51178,188927,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+51178,188927,2762,Acidosis,Acidosis
+51178,188927,30390,Alcoh dep NEC/NOS-unspec,"Other and unspecified alcohol dependence, unspecified"
+51178,188927,27652,Hypovolemia,Hypovolemia
+51178,188927,27651,Dehydration,Dehydration
+51178,188927,53010,"Esophagitis, unspecified","Esophagitis, unspecified"
+51178,188927,53560,Duodenitis w/o hmrhg,"Duodenitis, without mention of hemorrhage"
+51178,188927,2753,Dis phosphorus metabol,Disorders of phosphorus metabolism
+51178,188927,53081,Esophageal reflux,Esophageal reflux
+51178,188927,4019,Hypertension NOS,Unspecified essential hypertension
+51178,188927,7904,Elev transaminase/ldh,Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH]
+51178,188927,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia
+51178,188927,2859,Anemia NOS,"Anemia, unspecified"
+51178,188927,2411,Nontox multinodul goiter,Nontoxic multinodular goiter
+51178,188927,5738,Liver disorders NEC,Other specified disorders of liver
+53205,150067,1550,"Mal neo liver, primary","Malignant neoplasm of liver, primary"
+53205,150067,07032,Hpt B chrn wo cm wo dlta,Chronic viral hepatitis B without mention of hepatic coma without mention of hepatitis delta
+53205,150067,5756,Gb cholesterolosis,Cholesterolosis of gallbladder
+53205,150067,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+53205,150067,32721,Prim central sleep apnea,Primary central sleep apnea
+53205,150067,33818,Acute postop pain NEC,Other acute postoperative pain
+53205,150067,5715,Cirrhosis of liver NOS,Cirrhosis of liver without mention of alcohol
+57568,170909,20281,Lymphomas NEC head,"Other malignant lymphomas, lymph nodes of head, face, and neck"
+57568,170909,51881,Acute respiratry failure,Acute respiratory failure
+57568,170909,1960,Mal neo lymph-head/neck,"Secondary and unspecified malignant neoplasm of lymph nodes of head, face, and neck"
+57568,170909,2764,Mixed acid-base bal dis,Mixed acid-base balance disorder
+57568,170909,7455,Secundum atrial sept def,Ostium secundum type atrial septal defect
+57568,170909,4592,Compression of vein,Compression of vein
+57568,170909,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+57568,170909,1991,Malignant neoplasm NOS,Other malignant neoplasm without specification of site
+57568,170909,4019,Hypertension NOS,Unspecified essential hypertension
+57568,170909,2449,Hypothyroidism NOS,Unspecified acquired hypothyroidism
+57568,170909,79902,Hypoxemia,Hypoxemia
+57568,170909,4168,Chr pulmon heart dis NEC,Other chronic pulmonary heart diseases
+57568,170909,4275,Cardiac arrest,Cardiac arrest
+60115,168385,4412,Thoracic aortic aneurysm,Thoracic aneurysm without mention of rupture
+60115,168385,7464,Cong aorta valv insuffic,Congenital insufficiency of aortic valve
+60115,168385,4271,Parox ventric tachycard,Paroxysmal ventricular tachycardia
+60115,168385,4019,Hypertension NOS,Unspecified essential hypertension
+68937,109505,56211,Dvrtcli colon w/o hmrhg,Diverticulitis of colon (without mention of hemorrhage)
+68937,109505,0389,Septicemia NOS,Unspecified septicemia
+68937,109505,5845,"Ac kidny fail, tubr necr",Acute kidney failure with lesion of tubular necrosis
+68937,109505,78552,Septic shock,Septic shock
+68937,109505,51851,Ac resp flr fol trma/srg,Acute respiratory failure following trauma and surgery
+68937,109505,99592,Severe sepsis,Severe sepsis
+68937,109505,5609,Intestinal obstruct NOS,Unspecified intestinal obstruction
+68937,109505,5695,Intestinal abscess,Abscess of intestine
+68937,109505,99859,Other postop infection,Other postoperative infection
+68937,109505,2851,Ac posthemorrhag anemia,Acute posthemorrhagic anemia
+68937,109505,2762,Acidosis,Acidosis
+68937,109505,V420,Kidney transplant status,Kidney replaced by transplant
+68937,109505,E8788,Abn react-surg proc NEC,"Other specified surgical operations and procedures causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation"
+68937,109505,4019,Hypertension NOS,Unspecified essential hypertension
+68937,109505,V5865,Long-term use steroids,Long-term (current) use of steroids
+68457,164074,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery
+68457,164074,5845,"Ac kidny fail, tubr necr",Acute kidney failure with lesion of tubular necrosis
+68457,164074,43820,Late ef-hemplga side NOS,"Late effects of cerebrovascular disease, hemiplegia affecting unspecified side"
+68457,164074,2763,Alkalosis,Alkalosis
+68457,164074,5990,Urin tract infection NOS,"Urinary tract infection, site not specified"
+68457,164074,9975,Surg compl-urinary tract,"Urinary complications, not elsewhere classified"
+68457,164074,25080,DMII oth nt st uncntrld,"Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled"
+68457,164074,40390,Hy kid NOS w cr kid I-IV,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+68457,164074,5859,Chronic kidney dis NOS,"Chronic kidney disease, unspecified"
+68457,164074,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia
+68457,164074,49390,Asthma NOS,"Asthma, unspecified type, unspecified"
+68457,164074,27801,Morbid obesity,Morbid obesity
+68457,164074,32723,Obstructive sleep apnea,Obstructive sleep apnea (adult)(pediatric)
+68457,164074,7910,Proteinuria,Proteinuria
+68457,164074,412,Old myocardial infarct,Old myocardial infarction
+68457,164074,V5867,Long-term use of insulin,Long-term (current) use of insulin
+68457,164074,E8782,Abn react-anastom/graft,"Surgical operation with anastomosis, bypass, or graft, with natural or artificial tissues used as implant causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation"
+68457,164074,2859,Anemia NOS,"Anemia, unspecified"
+68457,164074,45829,Iatrogenc hypotnsion NEC,Other iatrogenic hypotension
+66430,171076,87343,Open wound of lip,"Open wound of lip, without mention of complication"
+66430,171076,5180,Pulmonary collapse,Pulmonary collapse
+66430,171076,87340,Open wound of face NOS,"Open wound of face, unspecified site, without mention of complication"
+66430,171076,E8150,Mv coll w oth obj-driver,Other motor vehicle traffic accident involving collision on the highway injuring driver of motor vehicle other than motorcycle
+66430,171076,30500,Alcohol abuse-unspec,"Alcohol abuse, unspecified"
+66430,171076,5713,Alcohol liver damage NOS,"Alcoholic liver damage, unspecified"
+66430,171076,3079,Special symptom NEC/NOS,"Other and unspecified special symptoms or syndromes, not elsewhere classified"
+66768,176145,1578,Malig neo pancreas NEC,Malignant neoplasm of other specified sites of pancreas
+66768,176145,5762,Obstruction of bile duct,Obstruction of bile duct
+66768,176145,5761,Cholangitis,Cholangitis
+66768,176145,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+66768,176145,2762,Acidosis,Acidosis
+66768,176145,5990,Urin tract infection NOS,"Urinary tract infection, site not specified"
+66768,176145,5789,Gastrointest hemorr NOS,"Hemorrhage of gastrointestinal tract, unspecified"
+66768,176145,5715,Cirrhosis of liver NOS,Cirrhosis of liver without mention of alcohol
+66768,176145,2800,Chr blood loss anemia,Iron deficiency anemia secondary to blood loss (chronic)
+66768,176145,40390,Hy kid NOS w cr kid I-IV,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+66768,176145,5853,Chr kidney dis stage III,"Chronic kidney disease, Stage III (moderate)"
+66768,176145,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+66768,176145,V5867,Long-term use of insulin,Long-term (current) use of insulin
+66768,176145,42731,Atrial fibrillation,Atrial fibrillation
+66768,176145,2749,Gout NOS,"Gout, unspecified"
+66768,176145,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants
+64999,185953,51884,Acute & chronc resp fail,Acute and chronic respiratory failure
+64999,185953,42833,Ac on chr diast hrt fail,Acute on chronic diastolic heart failure
+64999,185953,2760,Hyperosmolality,Hyperosmolality and/or hypernatremia
+64999,185953,2764,Mixed acid-base bal dis,Mixed acid-base balance disorder
+64999,185953,00845,Int inf clstrdium dfcile,Intestinal infection due to Clostridium difficile
+64999,185953,29041,Vasc dementia w delirium,"Vascular dementia, with delirium"
+64999,185953,27803,Obesity hypovent synd,Obesity hypoventilation syndrome
+64999,185953,5990,Urin tract infection NOS,"Urinary tract infection, site not specified"
+64999,185953,4280,CHF NOS,"Congestive heart failure, unspecified"
+64999,185953,4019,Hypertension NOS,Unspecified essential hypertension
+64999,185953,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia
+64999,185953,3659,Glaucoma NOS,Unspecified glaucoma
+64999,185953,4370,Cerebral atherosclerosis,Cerebral atherosclerosis
+64999,185953,V1254,Hx TIA/stroke w/o resid,"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits"
+64999,185953,3589,Myoneural disorders NOS,"Myoneural disorders, unspecified"
+64999,185953,34590,Epilep NOS w/o intr epil,"Epilepsy, unspecified, without mention of intractable epilepsy"
+64999,185953,496,Chr airway obstruct NEC,"Chronic airway obstruction, not elsewhere classified"
+64999,185953,27800,Obesity NOS,"Obesity, unspecified"
+64999,185953,412,Old myocardial infarct,Old myocardial infarction
+64999,185953,2859,Anemia NOS,"Anemia, unspecified"
+64999,185953,37810,Exotropia NOS,"Exotropia, unspecified"
+64999,185953,4659,Acute uri NOS,Acute upper respiratory infections of unspecified site
+66555,124440,5920,Calculus of kidney,Calculus of kidney
+66555,124440,99811,Hemorrhage complic proc,Hemorrhage complicating a procedure
+66555,124440,2761,Hyposmolality,Hyposmolality and/or hyponatremia
+66555,124440,2851,Ac posthemorrhag anemia,Acute posthemorrhagic anemia
+66555,124440,E8788,Abn react-surg proc NEC,"Other specified surgical operations and procedures causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation"
+66555,124440,5933,Stricture of ureter,Stricture or kinking of ureter
+66555,124440,5859,Chronic kidney dis NOS,"Chronic kidney disease, unspecified"
+66555,124440,5715,Cirrhosis of liver NOS,Cirrhosis of liver without mention of alcohol
+66555,124440,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia
+66555,124440,4263,Left bb block NEC,Other left bundle branch block
+66555,124440,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery
+66555,124440,2767,Hyperpotassemia,Hyperpotassemia
+66555,124440,45829,Iatrogenc hypotnsion NEC,Other iatrogenic hypotension
+71848,147174,5720,Abscess of liver,Abscess of liver
+71848,147174,5770,Acute pancreatitis,Acute pancreatitis
+71848,147174,5762,Obstruction of bile duct,Obstruction of bile duct
+71848,147174,56722,Peritoneal abscess,Peritoneal abscess
+71848,147174,2639,Protein-cal malnutr NOS,Unspecified protein-calorie malnutrition
+71848,147174,5601,Paralytic ileus,Paralytic ileus
+71848,147174,5119,Pleural effusion NOS,Unspecified pleural effusion
+71848,147174,7837,Failure to thrive-adult,Adult failure to thrive
+65126,141349,80606,C5-c7 fx-cl/com cord les,Closed fracture of C5-C7 level with complete lesion of cord
+65126,141349,80601,C1-c4 fx-cl/com cord les,Closed fracture of C1-C4 level with complete lesion of cord
+65126,141349,43491,Crbl art ocl NOS w infrc,"Cerebral artery occlusion, unspecified with cerebral infarction"
+65126,141349,44324,Dissect vertebral artery,Dissection of vertebral artery
+65126,141349,5601,Paralytic ileus,Paralytic ileus
+65126,141349,2763,Alkalosis,Alkalosis
+65126,141349,99731,Ventltr assoc pneumonia,Ventilator associated pneumonia
+65126,141349,04111,Mth sus Stph aur els/NOS,Methicillin susceptible Staphylococcus aureus in conditions classified elsewhere and of unspecified site
+65126,141349,0415,H. influenzae infect NOS,Hemophilus influenzae [H. influenzae] infection in conditions classified elsewhere and of unspecified site
+65126,141349,4019,Hypertension NOS,Unspecified essential hypertension
+65126,141349,30500,Alcohol abuse-unspec,"Alcohol abuse, unspecified"
+65126,141349,E8809,Fall on stair/step NEC,Accidental fall on or from other stairs or steps
+65604,142011,56211,Dvrtcli colon w/o hmrhg,Diverticulitis of colon (without mention of hemorrhage)
+65604,142011,0389,Septicemia NOS,Unspecified septicemia
+65604,142011,5845,"Ac kidny fail, tubr necr",Acute kidney failure with lesion of tubular necrosis
+65604,142011,78552,Septic shock,Septic shock
+65604,142011,42833,Ac on chr diast hrt fail,Acute on chronic diastolic heart failure
+65604,142011,5570,Ac vasc insuff intestine,Acute vascular insufficiency of intestine
+65604,142011,51853,Ac/chr rsp flr fol tr/sg,Acute and chronic respiratory failure following trauma and surgery
+65604,142011,56721,Peritonitis (acute) gen,Peritonitis (acute) generalized
+65604,142011,99592,Severe sepsis,Severe sepsis
+65604,142011,56089,Intestinal obstruct NEC,Other specified intestinal obstruction
+65604,142011,5695,Intestinal abscess,Abscess of intestine
+65604,142011,9971,Surg compl-heart,"Cardiac complications, not elsewhere classified"
+65604,142011,2761,Hyposmolality,Hyposmolality and/or hyponatremia
+65604,142011,56981,Intestinal fistula,"Fistula of intestine, excluding rectum and anus"
+65604,142011,2762,Acidosis,Acidosis
+65604,142011,78959,Ascites NEC,Other ascites
+65604,142011,2875,Thrombocytopenia NOS,"Thrombocytopenia, unspecified"
+65604,142011,42731,Atrial fibrillation,Atrial fibrillation
+65604,142011,4280,CHF NOS,"Congestive heart failure, unspecified"
+65604,142011,4019,Hypertension NOS,Unspecified essential hypertension
+65604,142011,2768,Hypopotassemia,Hypopotassemia
+65604,142011,27542,Hypercalcemia,Hypercalcemia
+65604,142011,2809,Iron defic anemia NOS,"Iron deficiency anemia, unspecified"
+65604,142011,V4365,Joint replaced knee,Knee joint replacement
+65604,142011,1119,Dermatomycosis NOS,"Dermatomycosis, unspecified"
+74764,193017,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery
+74764,193017,51881,Acute respiratry failure,Acute respiratory failure
+74764,193017,99601,Malfunc cardiac pacemake,Mechanical complication due to cardiac pacemaker (electrode)
+74764,193017,30401,Opioid dependence-contin,"Opioid type dependence, continuous"
+74764,193017,29181,Alcohol withdrawal,Alcohol withdrawal
+74764,193017,99811,Hemorrhage complic proc,Hemorrhage complicating a procedure
+74764,193017,4241,Aortic valve disorder,Aortic valve disorders
+74764,193017,78039,Convulsions NEC,Other convulsions
+74764,193017,2767,Hyperpotassemia,Hyperpotassemia
+74764,193017,5859,Chronic kidney dis NOS,"Chronic kidney disease, unspecified"
+74764,193017,2869,Coagulat defect NEC/NOS,Other and unspecified coagulation defects
+74764,193017,34830,Encephalopathy NOS,"Encephalopathy, unspecified"
+74764,193017,E8782,Abn react-anastom/graft,"Surgical operation with anastomosis, bypass, or graft, with natural or artificial tissues used as implant causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation"
+74764,193017,33829,Chronic pain NEC,Other chronic pain
+74764,193017,71591,Osteoarthros NOS-shlder,"Osteoarthrosis, unspecified whether generalized or localized, shoulder region"
+74764,193017,40390,Hy kid NOS w cr kid I-IV,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+74764,193017,4139,Angina pectoris NEC/NOS,Other and unspecified angina pectoris
+74764,193017,V1254,Hx TIA/stroke w/o resid,"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits"
+74764,193017,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia
+74764,193017,3051,Tobacco use disorder,Tobacco use disorder
+74260,159409,72992,Nontrauma hema soft tiss,Nontraumatic hematoma of soft tissue
+74260,159409,2851,Ac posthemorrhag anemia,Acute posthemorrhagic anemia
+74260,159409,496,Chr airway obstruct NEC,"Chronic airway obstruction, not elsewhere classified"
+74260,159409,42789,Cardiac dysrhythmias NEC,Other specified cardiac dysrhythmias
+74260,159409,4019,Hypertension NOS,Unspecified essential hypertension
+74260,159409,56409,Constipation NEC,Other constipation
+74260,159409,2720,Pure hypercholesterolem,Pure hypercholesterolemia
+74260,159409,73300,Osteoporosis NOS,"Osteoporosis, unspecified"
+74260,159409,311,Depressive disorder NEC,"Depressive disorder, not elsewhere classified"
+74260,159409,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants
+74260,159409,E9342,Adv eff anticoagulants,Anticoagulants causing adverse effects in therapeutic use
+81807,159214,99673,Comp-ren dialys dev/grft,"Other complications due to renal dialysis device, implant, and graft"
+81807,159214,5856,End stage renal disease,End stage renal disease
+81807,159214,42833,Ac on chr diast hrt fail,Acute on chronic diastolic heart failure
+81807,159214,45384,Ac emblsm axillary veins,Acute venous embolism and thrombosis of axillary veins
+81807,159214,40391,Hyp kid NOS w cr kid V,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease"
+81807,159214,58881,Sec hyperparathyrd-renal,Secondary hyperparathyroidism (of renal origin)
+81807,159214,E8782,Abn react-anastom/graft,"Surgical operation with anastomosis, bypass, or graft, with natural or artificial tissues used as implant causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation"
+81807,159214,E8490,Accident in home,Home accidents
+81807,159214,V4511,Renal dialysis status,Renal dialysis status
+81807,159214,42731,Atrial fibrillation,Atrial fibrillation
+81807,159214,73300,Osteoporosis NOS,"Osteoporosis, unspecified"
+81807,159214,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia
+81807,159214,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery
+81807,159214,49320,Chronic obst asthma NOS,"Chronic obstructive asthma, unspecified"
+81807,159214,3968,Mitr/aortic mult involv,Multiple involvement of mitral and aortic valves
+81807,159214,28521,Anemia in chr kidney dis,Anemia in chronic kidney disease
+81807,159214,4280,CHF NOS,"Congestive heart failure, unspecified"
+81807,159214,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants
+81807,159214,45821,Hemododialysis hypotensn,Hypotension of hemodialysis
+81807,159214,E8791,Abn react-renal dialysis,"Kidney dialysis as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure"
+81807,159214,311,Depressive disorder NEC,"Depressive disorder, not elsewhere classified"
+90070,162857,80021,Cl skull vlt fx w/o coma,"Closed fracture of vault of skull with subarachnoid, subdural, and extradural hemorrhage, with no loss of consciousness"
+90070,162857,2761,Hyposmolality,Hyposmolality and/or hyponatremia
+90070,162857,79001,"Drop, hematocrit, precip",Precipitous drop in hematocrit
+90070,162857,5180,Pulmonary collapse,Pulmonary collapse
+90070,162857,E8859,Fall from slipping NEC,"Fall from other slipping, tripping, or stumbling"
+90070,162857,V4987,Physical restrain status,Physical restraints status
+90070,162857,V4986,Do not resusctate status,Do not resuscitate status
+90070,162857,70703,"Pressure ulcer, low back","Pressure ulcer, lower back"
+90070,162857,29570,Schizoaffective dis NOS,"Schizoaffective disorder, unspecified"
+90070,162857,70722,"Pressure ulcer, stage II","Pressure ulcer, stage II"
+90070,162857,496,Chr airway obstruct NEC,"Chronic airway obstruction, not elsewhere classified"
+90070,162857,4019,Hypertension NOS,Unspecified essential hypertension
+90070,162857,3310,Alzheimer's disease,Alzheimer's disease
+90070,162857,319,Intellect disability NOS,Unspecified intellectual disabilities
+90070,162857,6961,Other psoriasis,Other psoriasis
+90070,162857,2449,Hypothyroidism NOS,Unspecified acquired hypothyroidism
+90070,162857,29410,Dementia w/o behav dist,Dementia in conditions classified elsewhere without behavioral disturbance
+90070,162857,85181,Brain lacer NEC w/o coma,"Other and unspecified cerebral laceration and contusion, without mention of open intracranial wound, with no loss of consciousness"
+90972,140197,56941,Rectal & anal ulcer,Ulcer of anus and rectum
+90972,140197,5184,Acute lung edema NOS,"Acute edema of lung, unspecified"
+90972,140197,5693,Rectal & anal hemorrhage,Hemorrhage of rectum and anus
+90972,140197,5723,Portal hypertension,Portal hypertension
+90972,140197,78959,Ascites NEC,Other ascites
+90972,140197,45621,Esoph varice oth dis NOS,"Esophageal varices in diseases classified elsewhere, without mention of bleeding"
+90972,140197,28983,Myelofibrosis,Myelofibrosis
+90972,140197,2762,Acidosis,Acidosis
+90972,140197,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+90972,140197,2851,Ac posthemorrhag anemia,Acute posthemorrhagic anemia
+90972,140197,5601,Paralytic ileus,Paralytic ileus
+90972,140197,5712,Alcohol cirrhosis liver,Alcoholic cirrhosis of liver
+90972,140197,4568,Varices of other sites,Varices of other sites
+90972,140197,V4581,Aortocoronary bypass,Aortocoronary bypass status
+90972,140197,42731,Atrial fibrillation,Atrial fibrillation
+90972,140197,4439,Periph vascular dis NOS,"Peripheral vascular disease, unspecified"
+90972,140197,5728,"Oth sequela, chr liv dis",Other sequelae of chronic liver disease
+90972,140197,4241,Aortic valve disorder,Aortic valve disorders
+90972,140197,3970,Tricuspid valve disease,Diseases of tricuspid valve
+90972,140197,V1582,History of tobacco use,Personal history of tobacco use
+90972,140197,28860,Leukocytosis NOS,"Leukocytosis, unspecified"
+90972,140197,4552,Int hemrrhoid w comp NEC,Internal hemorrhoids with other complication
+90972,140197,41400,Cor ath unsp vsl ntv/gft,"Coronary atherosclerosis of unspecified type of vessel, native or graft"
+90972,140197,V4986,Do not resusctate status,Do not resuscitate status
+90972,140197,E8859,Fall from slipping NEC,"Fall from other slipping, tripping, or stumbling"
+90972,140197,E8497,Accid in resident instit,Accidents occurring in residential institution
+90972,140197,4589,Hypotension NOS,"Hypotension, unspecified"
+88801,149232,7213,Lumbosacral spondylosis,Lumbosacral spondylosis without myelopathy
+88801,149232,2910,Delirium tremens,Alcohol withdrawal delirium
+88801,149232,72252,Lumb/lumbosac disc degen,Degeneration of lumbar or lumbosacral intervertebral disc
+88801,149232,79431,Abnorm electrocardiogram,Nonspecific abnormal electrocardiogram [ECG] [EKG]
+88801,149232,3051,Tobacco use disorder,Tobacco use disorder
+88801,149232,311,Depressive disorder NEC,"Depressive disorder, not elsewhere classified"
+88801,149232,34690,Migrne unsp wo ntrc mgrn,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus"
+88801,149232,2720,Pure hypercholesterolem,Pure hypercholesterolemia
+88801,149232,53081,Esophageal reflux,Esophageal reflux
+89459,144644,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery
+89459,144644,4260,Atriovent block complete,"Atrioventricular block, complete"
+89459,144644,42731,Atrial fibrillation,Atrial fibrillation
+89459,144644,40390,Hy kid NOS w cr kid I-IV,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+89459,144644,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+89459,144644,5852,Chro kidney dis stage II,"Chronic kidney disease, Stage II (mild)"
+89459,144644,2720,Pure hypercholesterolem,Pure hypercholesterolemia
+89459,144644,2859,Anemia NOS,"Anemia, unspecified"
+89459,144644,V707,Exam-clincal trial,Examination of participant in clinical trial
+89459,144644,27800,Obesity NOS,"Obesity, unspecified"
+89459,144644,45829,Iatrogenc hypotnsion NEC,Other iatrogenic hypotension
+89459,144644,V5867,Long-term use of insulin,Long-term (current) use of insulin
+89459,144644,V8539,"BMI 39.0-39.9,adult","Body Mass Index 39.0-39.9, adult"
+89459,144644,V1046,Hx-prostatic malignancy,Personal history of malignant neoplasm of prostate
+89459,144644,V153,Hx of irradiation,"Personal history of irradiation, presenting hazards to health"
+89459,144644,V1301,Prsnl hst urnr dsrd calc,Personal history of urinary calculi
+89459,144644,E8782,Abn react-anastom/graft,"Surgical operation with anastomosis, bypass, or graft, with natural or artificial tissues used as implant causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation"
+94977,121035,49121,Obs chr bronc w(ac) exac,Obstructive chronic bronchitis with (acute) exacerbation
+94977,121035,42833,Ac on chr diast hrt fail,Acute on chronic diastolic heart failure
+94977,121035,486,"Pneumonia, organism NOS","Pneumonia, organism unspecified"
+94977,121035,51881,Acute respiratry failure,Acute respiratory failure
+94977,121035,27803,Obesity hypovent synd,Obesity hypoventilation syndrome
+94977,121035,5990,Urin tract infection NOS,"Urinary tract infection, site not specified"
+94977,121035,4280,CHF NOS,"Congestive heart failure, unspecified"
+94977,121035,42731,Atrial fibrillation,Atrial fibrillation
+94977,121035,27801,Morbid obesity,Morbid obesity
+94977,121035,32723,Obstructive sleep apnea,Obstructive sleep apnea (adult)(pediatric)
+94977,121035,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery
+94977,121035,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+94977,121035,4019,Hypertension NOS,Unspecified essential hypertension
+94977,121035,30390,Alcoh dep NEC/NOS-unspec,"Other and unspecified alcohol dependence, unspecified"
+94977,121035,3051,Tobacco use disorder,Tobacco use disorder
+94977,121035,311,Depressive disorder NEC,"Depressive disorder, not elsewhere classified"
+94977,121035,34690,Migrne unsp wo ntrc mgrn,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus"
+94977,121035,04149,E.coli infection NEC/NOS,Other and unspecified Escherichia coli [E. coli]
+94977,121035,3079,Special symptom NEC/NOS,"Other and unspecified special symptoms or syndromes, not elsewhere classified"
+94977,121035,V4987,Physical restrain status,Physical restraints status
+98220,189416,03849,Gram-neg septicemia NEC,Other septicemia due to gram-negative organisms
+98220,189416,5720,Abscess of liver,Abscess of liver
+98220,189416,5761,Cholangitis,Cholangitis
+98220,189416,9986,Persist postop fistula,Persistent postoperative fistula
+98220,189416,99659,Malfunc oth device/graft,"Mechanical complication due to other implant and internal device, not elsewhere classified"
+98220,189416,5119,Pleural effusion NOS,Unspecified pleural effusion
+98220,189416,V850,"BMI less than 19,adult","Body Mass Index less than 19, adult"
+98220,189416,99591,Sepsis,Sepsis
+98220,189416,E8782,Abn react-anastom/graft,"Surgical operation with anastomosis, bypass, or graft, with natural or artificial tissues used as implant causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation"
+98220,189416,V1009,Hx of GI malignancy NEC,Personal history of malignant neoplasm of other gastrointestinal tract
+98220,189416,E8798,Abn react-procedure NEC,"Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure"
+97424,196371,9747,Pois-uric acid metabol,Poisoning by uric acid metabolism drugs
+97424,196371,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+97424,196371,2762,Acidosis,Acidosis
+97424,196371,2875,Thrombocytopenia NOS,"Thrombocytopenia, unspecified"
+97424,196371,49390,Asthma NOS,"Asthma, unspecified type, unspecified"
+97424,196371,4019,Hypertension NOS,Unspecified essential hypertension
+97424,196371,7243,Sciatica,Sciatica
+97424,196371,E8585,Acc poisn-metabol agnt,"Accidental poisoning by water, mineral, and uric acid metabolism drugs"
+97424,196371,7904,Elev transaminase/ldh,Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH]
+97424,196371,28860,Leukocytosis NOS,"Leukocytosis, unspecified"
+97424,196371,2749,Gout NOS,"Gout, unspecified"
+97424,196371,7921,Abn find-stool contents,Nonspecific abnormal findings in stool contents
+96514,157678,4373,Nonrupt cerebral aneurym,"Cerebral aneurysm, nonruptured"
+96514,157678,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia
+96518,110840,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+96518,110840,486,"Pneumonia, organism NOS","Pneumonia, organism unspecified"
+96518,110840,34830,Encephalopathy NOS,"Encephalopathy, unspecified"
+96518,110840,42832,Chr diastolic hrt fail,Chronic diastolic heart failure
+96518,110840,78550,Shock NOS,"Shock, unspecified"
+96518,110840,2760,Hyperosmolality,Hyperosmolality and/or hypernatremia
+96518,110840,2763,Alkalosis,Alkalosis
+96518,110840,27542,Hypercalcemia,Hypercalcemia
+96518,110840,4280,CHF NOS,"Congestive heart failure, unspecified"
+96518,110840,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia
+96518,110840,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+96518,110840,73300,Osteoporosis NOS,"Osteoporosis, unspecified"
+96518,110840,2749,Gout NOS,"Gout, unspecified"
+96518,110840,42789,Cardiac dysrhythmias NEC,Other specified cardiac dysrhythmias
+96518,110840,40390,Hy kid NOS w cr kid I-IV,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+96518,110840,5852,Chro kidney dis stage II,"Chronic kidney disease, Stage II (mild)"
+96518,110840,28521,Anemia in chr kidney dis,Anemia in chronic kidney disease
+96518,110840,2875,Thrombocytopenia NOS,"Thrombocytopenia, unspecified"
+96518,110840,2720,Pure hypercholesterolem,Pure hypercholesterolemia
+97868,191761,431,Intracerebral hemorrhage,Intracerebral hemorrhage
+97868,191761,3484,Compression of brain,Compression of brain
+97868,191761,1120,Thrush,Candidiasis of mouth
+97868,191761,4019,Hypertension NOS,Unspecified essential hypertension
+97868,191761,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia
+97868,191761,496,Chr airway obstruct NEC,"Chronic airway obstruction, not elsewhere classified"
+97868,191761,2662,B-complex defic NEC,Other B-complex deficiencies
+97868,191761,42789,Cardiac dysrhythmias NEC,Other specified cardiac dysrhythmias
+97868,191761,3669,Cataract NOS,Unspecified cataract
+97868,191761,V1582,History of tobacco use,Personal history of tobacco use
+98103,183201,25013,DMI ketoacd uncontrold,"Diabetes with ketoacidosis, type I [juvenile type], uncontrolled"
+98103,183201,1625,Mal neo lower lobe lung,"Malignant neoplasm of lower lobe, bronchus or lung"
+98103,183201,51181,Malignant pleural effusn,Malignant pleural effusion
+98103,183201,78959,Ascites NEC,Other ascites
+98103,183201,V5867,Long-term use of insulin,Long-term (current) use of insulin
+98103,183201,25063,DMI neuro uncntrld,"Diabetes with neurological manifestations, type I [juvenile type], uncontrolled"
+98103,183201,5363,Gastroparesis,Gastroparesis
+98103,183201,29680,Bipolar disorder NOS,"Bipolar disorder, unspecified"
+98103,183201,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia
+98103,183201,4019,Hypertension NOS,Unspecified essential hypertension
+98103,183201,78900,Abdmnal pain unspcf site,"Abdominal pain, unspecified site"
+98103,183201,33829,Chronic pain NEC,Other chronic pain
+91376,193978,8600,Traum pneumothorax-close,Traumatic pneumothorax without mention of open wound into thorax
+91376,193978,8621,Diaphragm injury-open,"Injury to diaphragm, with open wound into cavity"
+91376,193978,9584,Traumatic shock,Traumatic shock
+91376,193978,4821,Pseudomonal pneumonia,Pneumonia due to Pseudomonas
+91376,193978,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus
+91376,193978,4275,Cardiac arrest,Cardiac arrest
+91376,193978,95891,Trauma comp synd up ext,Traumatic compartment syndrome of upper extremity
+91376,193978,95893,Trauma compart synd abd,Traumatic compartment syndrome of abdomen
+91376,193978,3481,Anoxic brain damage,Anoxic brain damage
+91376,193978,9971,Surg compl-heart,"Cardiac complications, not elsewhere classified"
+91376,193978,2639,Protein-cal malnutr NOS,Unspecified protein-calorie malnutrition
+91376,193978,7907,Bacteremia,Bacteremia
+91376,193978,5990,Urin tract infection NOS,"Urinary tract infection, site not specified"
+91376,193978,88110,Open wound forearm-compl,"Open wound of forearm, complicated"
+91376,193978,56409,Constipation NEC,Other constipation
+91376,193978,04104,Enterococcus group d,"Streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group D [Enterococcus]"
+91376,193978,E966,Assault-cutting instr,Assault by cutting and piercing instrument
+91376,193978,E8788,Abn react-surg proc NEC,"Other specified surgical operations and procedures causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation"
+98228,145017,43411,Crbl emblsm w infrct,Cerebral embolism with cerebral infarction
+98228,145017,3484,Compression of brain,Compression of brain
+98228,145017,34290,Unsp hemiplga unspf side,"Hemiplegia, unspecified, affecting unspecified side"
+98228,145017,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus
+98228,145017,78194,Facial weakness,Facial weakness
+98228,145017,30781,Tension headache,Tension headache
+98228,145017,43310,Ocl crtd art wo infrct,Occlusion and stenosis of carotid artery without mention of cerebral infarction
+98228,145017,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+98228,145017,4019,Hypertension NOS,Unspecified essential hypertension
+98228,145017,4370,Cerebral atherosclerosis,Cerebral atherosclerosis
+96046,110289,4373,Nonrupt cerebral aneurym,"Cerebral aneurysm, nonruptured"
+96046,110289,37430,Ptosis of eyelid NOS,"Ptosis of eyelid, unspecified"
+96046,110289,3051,Tobacco use disorder,Tobacco use disorder
+96046,110289,42731,Atrial fibrillation,Atrial fibrillation
+96046,110289,44289,Aneurysm NEC,Aneurysm of other specified artery
+96046,110289,V1251,Hx-ven thrombosis/embols,Personal history of venous thrombosis and embolism
