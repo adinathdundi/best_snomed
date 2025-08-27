@@ -7,9 +7,6 @@ This package fetches the best matching SNOMED CT code given an ICD code and pati
 Clone this repo:
 
 ```bash
-git clone https://github.com/adinathdundi/best_snomed.git
-cd structured_rag
-pip install -e .
 
 
 pip install -r requirements.txt
@@ -22,4 +19,5 @@ from structured_rag import using_dspy
 
 top_matches = using_dspy(hadm_id=12345, icd9_code="25000")
 print(top_matches)
+
 
