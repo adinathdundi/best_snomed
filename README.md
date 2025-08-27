@@ -16,11 +16,12 @@ ollama run {any other ollama model}
 ```
 Usage
 
-
+``bash
 from structured_rag import using_dspy
 
 top_matches = using_dspy(hadm_id=12345, icd9_code="25000")
 print(top_matches)
+```
 
 
 
