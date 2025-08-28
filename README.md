@@ -24,13 +24,13 @@ print(top_matches)
 Output
 
 ```
-**[{'code': '408546009',
+[{'code': '408546009',
   'name': 'Coronary artery bypass graft occlusion (disorder)'},
  {'code': '132111000119107',
   'name': 'Acute deep venous thrombosis of lower limb due to cardiac device'},
  {'code': '234211005', 'name': 'Pacemaker electrode displacement (disorder)'}]
-**
 ```
+
 
 
 
