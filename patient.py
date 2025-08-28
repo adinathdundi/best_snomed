@@ -1,5 +1,5 @@
 import pandas as pd
-from .dataloader import admission_df, prescription_df, labtest_df, cpt_events_df, gender_df
+from dataloader import admission_df, prescription_df, labtest_df, cpt_events_df, gender_df
 
 
 def fetch_patient_context(hadm_id: int):
