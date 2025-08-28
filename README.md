@@ -10,20 +10,17 @@ pip install ollama
 pip install dspy
 ```
 
-Clone this repo:
 
-```
-pip install -r requirements.txt
-ollama run mistral
-```
 Usage
+Open a new jupyter notebook and import rag module
 
 ```bash
-from best_snomed.rag import using_dspy
+import rag
 
-top_matches = using_dspy(hadm_id=12345, icd9_code="25000")
+top_matches = rag.using_dspy(hadm_id=1234, icd9code='32455')
 print(top_matches)
 ```
+
 
 
 
