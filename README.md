@@ -2,19 +2,19 @@
 
 This package fetches the best matching SNOMED CT code given an ICD code and patient context using DSPy and Ollama.
 
-## Installation modules:
+Step 1. Installation modules:
 ```
 pip install ollama
 ```
 ```
 pip install dspy
 ```
-For Ollama, you need to import an LLM found here -> https://ollama.com/search
+Step 2. For Ollama, you need to import an LLM found here -> https://ollama.com/search
 For running a model:
 ```
 ollama run mistral
 ```
-Usage
+Step 3. Usage
 Open a new jupyter notebook and import fetch_snomed_code module
 
 ```
@@ -24,8 +24,7 @@ top_matches = sct.using_dspy(hadm_id=125726, icd9code='99672')
 print(top_matches)
 ```
 
-Output
-
+Output:
 ```
 [{'code': '408546009',
   'name': 'Coronary artery bypass graft occlusion (disorder)'},
@@ -34,6 +33,8 @@ Output
  {'code': '234211005', 'name': 'Pacemaker electrode displacement (disorder)'}]
 ```
 
+## Data files:
+Data files must be in the data/ folder. Please ensure that the files are in the same format
 
 
 
