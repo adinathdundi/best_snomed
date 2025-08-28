@@ -43,4 +43,4 @@ def fetch_snomed_candidates(icd: str) -> pd.DataFrame:
         'SNOMED_FSN': snomed_fsn
     })
 
-    return snomed_df, icd_name.iloc[0]
+    return snomed_df, icd_name.iloc[0]  if not icd_name.empty else "Unknown ICD"
