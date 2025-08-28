@@ -37,7 +37,7 @@ class RAG(dspy.Module):
         top_matches = result.answer[:3] if isinstance(result.answer, list) else [result.answer]
         return top_matches
 
-dspy.configure(lm=dspy.LM("ollama_chat/llama3.2", api_base="http://localhost:11434"))
+dspy.configure(lm=dspy.LM("ollama_chat/mistral", api_base="http://localhost:11434"))
 
 # Initialize RAG globally so users can call `using_dspy`
 rag = RAG()
@@ -66,3 +66,4 @@ def using_dspy(hadm_id: int, icd: str):
     )
 
     return top_matches
+
