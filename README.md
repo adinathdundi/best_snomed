@@ -9,8 +9,11 @@ pip install ollama
 ```
 pip install dspy
 ```
-
-
+For Ollama, you need to import an LLM found here -> https://ollama.com/search
+For running a model:
+```
+ollama run mistral
+```
 Usage
 Open a new jupyter notebook and import fetch_snomed_code module
 
@@ -30,6 +33,7 @@ Output
   'name': 'Acute deep venous thrombosis of lower limb due to cardiac device'},
  {'code': '234211005', 'name': 'Pacemaker electrode displacement (disorder)'}]
 ```
+
 
 
 
