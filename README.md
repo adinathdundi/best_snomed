@@ -15,11 +15,12 @@ Usage
 Open a new jupyter notebook and import rag module
 
 ```bash
-import rag
+import fetch_snomed_code as sct
 
-top_matches = rag.using_dspy(hadm_id=1234, icd9code='32455')
+top_matches = sct.using_dspy(hadm_id=1234, icd9code='32455')
 print(top_matches)
 ```
+
 
 
 
