@@ -1,13 +1,10 @@
 import pandas as pd
-from pathlib import Path
 
-# Base directory
-DATA_DIR = Path("data")
 
 
 def load_csv(file_name: str) -> pd.DataFrame:
     """Load a CSV file into a DataFrame."""
-    file_path = file_name
+    file_path = 'data/'+file_name
     return pd.read_csv(file_path)
 
 
